@@ -26,7 +26,7 @@ published: true
 
 {: .table .table-condensed .table-responsive }
 | ---                                                                | ---:         |
-| Séance de lithothérapie et soins énergétiques <br/><small class="brun"><em>Il est également possible de coupler l’hypnose à un soin énergétique, auquel cas, le tarif reste à 120 CHF la séance.</em></small> | 120&nbsp;CHF |
+| Séance de lithothérapie et soins énergétiques <br/><small class="brun"><em>Il est également possible de coupler l’hypnose à un soin énergétique, auquel cas le tarif reste à 120 CHF la séance.</em></small> | 120&nbsp;CHF |
 
 ## Cours
 
