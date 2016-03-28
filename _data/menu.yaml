@@ -1,5 +1,4 @@
 
-
 - titre: Thérapies
   menu:
 
@@ -20,7 +19,7 @@
       permalink: hypnocoaching-gestion-de-la-peur
     - titre: Hypnocoaching communication
       permalink: hypnocoaching-communication
-    - titre: Hypnocoaching amour & sexualité
+    - titre: Hypnocoaching amour &amp; sexualité
       permalink: http://sacree-sexualite.org/hypnocoaching-amour-sexualite/
 
     - separator: Sexualité
@@ -52,7 +51,7 @@
 - titre: Thérapeute
   menu:
 
-    - titre: Formations & diplômes
+    - titre: Formations &amp; diplômes
       permalink: formations-et-diplomes/
     - titre: Expériences de vie
       permalink: experience-de-vie/
@@ -64,10 +63,13 @@
 - titre: Infos
   menu:
 
-    - titre: Contact & accès
+    - titre: Contact &amp; accès
       permalink: contact-et-acces/
     - titre: Tarifs
       permalink: tarifs/
+    - titre: <i class="fa fa-facebook-square"></i> Facebook
+      permalink: https://www.facebook.com/hypnose.stucki
+
 
 
 
@@ -76,10 +78,8 @@
 - titre: Sacrée Sexualité
   menu:
 
-    - titre: Hypnocoaching amour & sexualité
+    - titre: Hypnocoaching amour &amp; sexualité
       permalink: http://sacree-sexualite.org/
     - titre: Sexualité
       permalink: http://sacree-sexualite.org/
-
-
 

@@ -24,15 +24,15 @@
 			{% endunless %}
 			<li class="dropdown-header">{{ sous-menu-2.separator }}</li>
 		{% elsif sous-menu-2.titre %}
-			{% assign toto = sous-menu-2.permalink | slice: 0, 7  %}
-			{% if toto == "http://" %}
+			{% assign protocol = sous-menu-2.permalink | slice: 0, 4  %}
+			{% if protocol == "http" %}
 				{% assign permalink = sous-menu-2.permalink %}
 				{% assign asterix = '<i style="margin-left:10px; color:#AAA;" class="fa fa-external-link"></i>' %}
 			{% else %}
 				{% assign permalink = thisbaseurl | append: sous-menu-2.permalink %}
 				{% assign asterix = "" %}
 			{% endif %}
-			<li><a href="{{ permalink }}">{{ sous-menu-2.titre | escape }}{{ asterix }}</a></li>
+			<li><a href="{{ permalink }}">{{ sous-menu-2.titre }}{{ asterix }}</a></li>
 		{% endif %}
 	{% endfor %}
 	</ul>
