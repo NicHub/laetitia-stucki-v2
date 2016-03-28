@@ -21,6 +21,6 @@ Phobies, dépressions, insomnies, bégaiements, toc, angoisses, timidité, agres
 
 Préparation à un évènement important, gestion du stress et des émotions, pensée positive et constructive, augmentation de la confiance en soi et de la maîtrise de soi, développement des capacités physiques et psychiques, etc.
 
-## Dans le domaine du développement personnel et spirituel
+## Dans le domaine du développement personnel et spirituel
 
 Développement de la créativité et de l’imagination, lâcher-prise, développement de ses facultés psychique, retrouver son enfant intérieur, s’aimer soi-même, élargir notre conscience de soi à une conscience universelle, épanouir sa sexualité.

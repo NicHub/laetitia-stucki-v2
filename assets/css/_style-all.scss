@@ -13,8 +13,14 @@ body, html {
 div.page-text {
 	table.table {
 		margin-bottom: 50px;
+		td {
+			text-align: left;
+		}
 		td:nth-child( 2 ) {
 			text-align: right;
+		}
+		small {
+			color: brown;
 		}
 	}
 }
