@@ -21,11 +21,11 @@
 		<meta name="author"      content="{{ site.author | escape }}" />
 		<meta name="date"        content="{{ site.time | date_to_xmlschema }}" />
 		<link rel="shortcut icon" type="image/x-icon" href="{{ thisbaseurl }}images/favicon.ico" />
-		<meta property="og:url"           content="{{ site.url }}{{ site.baseurl }}{{ page.permalink }}" />
+		<meta property="og:url"           content="{{ site.url }}/{{ site.baseurl }}{{ page.permalink }}" />
 		<meta property="og:type"          content="website" />
 		<meta property="og:title"         content="{{ site.title | escape }}" />
 		<meta property="og:description"   content="{{ site.description | escape }}" />
-		<meta property="og:image"         content="{{ site.url }}{{ site.baseurl }}{{ site.data.infos.images.banniere }}" />
+		<meta property="og:image"         content="{{ site.url }}/{{ site.baseurl }}{{ site.data.infos.images.banniere }}" />
 		<!--[if lt IE 9]>
 			<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
