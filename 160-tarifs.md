@@ -7,8 +7,6 @@ published: true
 
 # Tarifs
 
-Faites plaisir à vos proches : offrez un bon cadeau.
-
 ## Les séances<br/>d’hypnose
 
 {: .table .table-condensed .table-responsive }
@@ -28,15 +26,18 @@ Faites plaisir à vos proches : offrez un bon cadeau.
 
 {: .table .table-condensed .table-responsive }
 | ---                                                                | ---:         |
-| Séance de lithothérapie et soins énergétiques <br/><small><em>Il est également possible de coupler l’hypnose à un soin énergétique, auquel cas, le tarif reste à 120 CHF la séance.</em></small> | 120&nbsp;CHF |
-
-
+| Séance de lithothérapie et soins énergétiques <br/><small class="brun"><em>Il est également possible de coupler l’hypnose à un soin énergétique, auquel cas, le tarif reste à 120 CHF la séance.</em></small> | 120&nbsp;CHF |
 
 ## Cours
 
 {: .table .table-condensed .table-responsive }
 | ---                                                                | ---:         |
 | Introduction à l’autohypnose, durée 3 h, sur rendez-vous           | 150&nbsp;CHF |
-| Cours d’autohypnose, *“Réalisez vos rêves et atteignez vos objectifs”*, durée 2 jours <small><em>Prochaines dates, les 23 et 24 avril 2016</em></small> | 350&nbsp;CHF |
+| Cours d’autohypnose, *“Réalisez vos rêves et atteignez vos objectifs”*, durée 2 jours <small class="brun"><em>Prochaines dates, les 23 et 24 avril 2016</em></small> | 350&nbsp;CHF |
 
-*Concernant les séances et les cours, si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en informer au plus tard un jour ouvrable à l’avance. Passé ce délai, la consultation vous sera facturée intégralement. J’accepte uniquement les payements au comptant, en francs suisses et sur place.*
+{: .align-center }
+***<i class="fa fa-gift"></i> Faites plaisir à vos proches : offrez un bon cadeau !***
+
+&nbsp;
+
+<small>*Concernant les séances et les cours, si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en informer au plus tard un jour ouvrable à l’avance. Passé ce délai, la consultation vous sera facturée intégralement. J’accepte uniquement les payements au comptant, en francs suisses et sur place.*</small>

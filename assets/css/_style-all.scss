@@ -1,7 +1,4 @@
 
-
-$contrast-color: hsl(201, 67%, 61%);
-
 body, html {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
@@ -9,7 +6,6 @@ body, html {
 	-webkit-font-smoothing: antialiased !important;
 }
 
-/* ———— */
 div.page-text {
 	table.table {
 		margin-bottom: 50px;
@@ -19,13 +15,8 @@ div.page-text {
 		td:nth-child( 2 ) {
 			text-align: right;
 		}
-		small {
-			color: brown;
-		}
 	}
 }
-
-
 
 .align-center {
 	text-align: center !important;
@@ -36,4 +27,6 @@ div.page-text {
 .align-right {
 	text-align: right !important;
 }
-
+.brun {
+	color: brown;
+}
