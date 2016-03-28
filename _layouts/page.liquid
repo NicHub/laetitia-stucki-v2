@@ -1,0 +1,37 @@
+---
+layout: pretty-print-basic
+---
+<html lang="{{ site.locale }}">
+{% include head.liquid %}
+	<body id="page">
+{% include facebook-sdk.liquid %}
+{% include menu-top.liquid %}
+
+<div class="jumbotron">
+</div>
+
+<div class="container page-text" id="p">
+	<div class="row header">
+		<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2 titre-principal">
+			<h1 class="animated pulse">{{ site.data.infos.slogan }}</h1>
+			{% include prev-next-buttons.liquid %}
+		</div>
+	</div>
+	<div class="row">
+	{% if page.plus-large %}
+		<div class="page-inner-text">
+	{% else %}
+		<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2 page-inner-text">
+	{% endif %}
+		{{ content }}
+		</div>
+	</div>
+	<div class="row">
+		{% include prev-next-buttons.liquid %}
+	</div>
+</div>
+
+{% include footer.liquid %}
+
+	</body>
+</html>

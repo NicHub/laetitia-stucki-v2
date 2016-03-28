@@ -1,0 +1,45 @@
+<nav class="navbar navbar-fixed-top">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#Navbar1">
+				<span class="sr-only">Afficher ou cacher le menu</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="{{ thisbaseurl }}">{{ site.data.infos.titre }}</a>
+		</div>
+		<div class="collapse navbar-collapse" id="Navbar1">
+			<ul class="nav navbar-nav navbar-right">
+{% for sous-menu-1 in site.data.menu %}
+<li class="dropdown">
+	<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true">{{ sous-menu-1.titre }}&#160;<span class="caret"></span></a>
+	<ul class="dropdown-menu">
+	{% assign counter = 0 %}
+	{% for sous-menu-2 in sous-menu-1.menu %}
+		{% assign counter = counter | plus: 1 %}
+		{% if sous-menu-2.separator %}
+			{% unless counter == 1 %}
+			<li role="separator" class="divider"></li>
+			{% endunless %}
+			<li class="dropdown-header">{{ sous-menu-2.separator }}</li>
+		{% elsif sous-menu-2.titre %}
+			{% assign toto = sous-menu-2.permalink | slice: 0, 7  %}
+			{% if toto == "http://" %}
+				{% assign permalink = sous-menu-2.permalink %}
+				{% assign asterix = '<i style="margin-left:10px; color:#AAA;" class="fa fa-external-link"></i>' %}
+			{% else %}
+				{% assign permalink = thisbaseurl | append: sous-menu-2.permalink %}
+				{% assign asterix = "" %}
+			{% endif %}
+			<li><a href="{{ permalink }}">{{ sous-menu-2.titre | escape }}{{ asterix }}</a></li>
+		{% endif %}
+	{% endfor %}
+	</ul>
+</li>
+{% endfor %}
+			</ul>
+		</div>
+	</div>
+</nav>
+

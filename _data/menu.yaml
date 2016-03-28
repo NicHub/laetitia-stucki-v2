@@ -1,0 +1,85 @@
+
+
+- titre: Thérapies
+  menu:
+
+    - separator: Hypnose thérapeutique
+
+    - titre: Présentation de l’hypnose
+      permalink: hypnose/
+    - titre: Indications
+      permalink: indications/
+    - titre: Cesser de fumer et mincir
+      permalink: cesser-de-fumer-sans-effort-et-mincir-sans-privation/
+
+    - separator: Hypnocoaching
+
+    - titre: Hypnocoaching confiance en soi
+      permalink: hypnocoaching-confiance-en-soi/
+    - titre: Hypnocoaching gestion de la peur
+      permalink: hypnocoaching-gestion-de-la-peur
+    - titre: Hypnocoaching communication
+      permalink: hypnocoaching-communication
+    - titre: Hypnocoaching amour & sexualité
+      permalink: http://sacree-sexualite.org/hypnocoaching-amour-sexualite/
+
+    - separator: Sexualité
+
+    - titre: Hypnosexologie
+      permalink: http://sacree-sexualite.org/hypnosexologie/
+
+    - separator: Lithothérapie et soins énergétiques
+
+    - titre: Lithothérapie et soins énergétiques
+      permalink: lithotherapie-et-soins-energetiques/
+
+
+
+
+
+- titre: Évènements
+  menu:
+
+    - titre: Cours
+      permalink: cours/
+    - titre: Manifestations
+      permalink: evenements/
+
+
+
+
+
+- titre: Thérapeute
+  menu:
+
+    - titre: Formations & diplômes
+      permalink: formations-et-diplomes/
+    - titre: Expériences de vie
+      permalink: experience-de-vie/
+
+
+
+
+
+- titre: Infos
+  menu:
+
+    - titre: Contact & accès
+      permalink: contact-et-acces/
+    - titre: Tarifs
+      permalink: tarifs/
+
+
+
+
+
+- titre: Sacrée Sexualité
+  menu:
+
+    - titre: Hypnocoaching amour & sexualité
+      permalink: http://sacree-sexualite.org/
+    - titre: Sexualité
+      permalink: http://sacree-sexualite.org/
+
+
+

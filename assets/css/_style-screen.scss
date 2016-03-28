@@ -1,0 +1,229 @@
+
+
+$screen-xs-max: 767px;
+$screen-sm-max: 991px;
+$screen-md-max: 1199px;
+
+$back-col: white;
+$text-col: rgba( 20, 20, 20, 1 );
+
+body, html {
+	font-size: 14pt;
+	text-rendering: optimizeLegibility !important;
+	-webkit-font-smoothing: antialiased !important;
+	color: $text-col;
+	padding: 0;
+	margin: 0;
+}
+
+body#page {
+	@media( width: $screen-xs-max + 1 ) {
+		// Hack bug iPad en mode portrait où le jumbotron et le footer ne couvrent pas totalement le côté droit.
+		div.jumbotron {
+			width: $screen-xs-max + 6;
+		}
+		footer {
+			width: $screen-xs-max + 7;
+		}
+	}
+	h1, h2, h3, h4, h5, h6 {
+		text-align: center;
+	}
+	h2 {
+		padding-bottom: 5px;
+	}
+	background-color: $back-col;
+	nav.navbar {
+		background-color: rgba( 255, 255, 255, 0.95 );
+		font-weight: 400;
+		font-size: 10.5pt;
+		border-bottom: 1px solid transparent;
+		a.navbar-brand {
+			font-family: 'Shadows Into Light Two';
+			color: Navy;
+			font-size: 20pt;
+		}
+		.navbar-nav.navbar-right li a {
+			color: $text-col;
+		}
+		.navbar-toggle .icon-bar {
+		    background-color: black;
+		}
+	}
+	div.btn-prev-next {
+		margin: 30px 0;
+		a {
+			border: none;
+			border-width: thick;
+			opacity: 0.9;
+			background-color: transparent;
+			color: #6e2525;
+			font-size: 20pt;
+		}
+		a:hover {
+			opacity: 1;
+		}
+	}
+	div.page-text {
+		margin: 0 auto;
+		background-color: transparent;
+		padding: 0;
+		@media( max-width: $screen-xs-max ) {
+			margin: 0;
+		}
+		div.row {
+			margin: 0;
+			padding: 0;
+			&.header {
+				margin-top: -450px;
+				div.titre-principal {
+					border-radius: 20px;
+					padding: 40px 0 0;
+					text-align: center;
+					$shadow-col: rgba( 243, 230, 175, 1 );
+					h1 {
+						color: brown;
+						text-shadow: 1px 1px 1px white, 0 0 5px white, 0 0 10px white, 0 0 20px white, 0 0 30px white;
+						font-weight: 100;
+						text-transform: uppercase;
+						font-family: Open Sans;
+						$spacing: 0.1em;
+						letter-spacing: $spacing;
+						word-spacing: $spacing;
+						font-size: 40pt;
+						@media( max-width: $screen-sm-max ) {
+							font-size: 30pt;
+						}
+						@media( max-width: $screen-xs-max ) {
+							font-size: 25pt;
+						}
+						span {
+							font-family: 'Shadows Into Light Two';
+							font-size: 14pt;
+							color: Navy;
+							font-size: 20pt;
+							letter-spacing: normal;
+							word-spacing: normal;
+						}
+					}
+					.btn-prev-next {
+						text-shadow: 0 0 10px $shadow-col, 0 0 20px $shadow-col;
+					}
+				}
+			}
+			div.page-inner-text {
+				text-align: justify;
+				background-color: rgba( 255, 255, 255, 1 );
+				padding: 25px 50px 50px;
+				border-radius: 20px;
+				box-shadow: 50px 50px 44px -16px rgba( 0, 0, 0, .15 );
+				h1:first-child {
+					margin-bottom: 50px;
+				}
+				ul {
+					padding-left: 20px;
+					text-align: left;
+				}
+				@media( max-width: $screen-xs-max ) {
+					text-align: left;
+					box-shadow: none;
+					padding: 20px;
+					margin: 0;
+					border-radius: 0;
+					box-shadow: none;
+				}
+			}
+		}
+		.gallerie {
+			.vignette {
+				$h_vignette: 300px;
+				height: $h_vignette;
+				max-height: $h_vignette;
+				text-align: center;
+				font-size: 10pt;
+				text-transform: uppercase;
+				font-weight: bold;
+				img {
+					$taille-image: 200px;
+					width: $taille-image;
+					height: $taille-image;
+					margin: 10px auto;
+				}
+			}
+		}
+
+		img.couverture {
+			width: 200px;
+			display: block;
+			margin: 40px auto;
+		}
+	}
+	p {
+		img {
+			max-width: 50%;
+			display: block;
+			margin: 80px auto;
+		}
+	}
+	blockquote {
+		font-style: italic;
+	}
+	.text-center {
+		text-align: center;
+	}
+
+
+}
+
+
+
+// footer
+$footer-height: 100px;
+html {
+	position: relative;
+	min-height: 100%;
+}
+body {
+	padding-bottom: $footer-height;
+}
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	background-color: rgba( 4, 6, 11, 0.9 );
+	div.footer-text {
+		color: rgba( 227, 211, 198, 0.9 );
+		padding-top: 40px;
+		height: $footer-height;
+		font-size: 10.5pt;
+		:link {
+			color: #77acd9;
+		}
+	}
+}
+
+// formulaire
+form {
+	margin: 60px auto;
+	display: table;
+	width: 100%;
+	input, textarea, button, p {
+		margin: 10px auto;
+	}
+	textarea {
+		resize: vertical;
+	}
+	fieldset#form-status {
+		margin-top: 20px;
+		text-align: center;
+	}
+}
+
+.hidden-screen {
+	display: none;
+}
+
+div.fb-wrapper {
+	text-align: center;
+	margin: 20px 0;
+}

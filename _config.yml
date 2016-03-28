@@ -1,0 +1,37 @@
+
+title: "Lætitia Stucki"
+description: "Lætitia Stucki — Hypnose & qualité de vie"
+keywords: "hypnose, thérapies brèves, qualité de vie, Lausanne, Vallée de Joux, Suisse"
+author: "Lætitia Stucki, Nicolas Jeanmonod"
+
+locale: fr
+
+
+
+url: "http://laetitia-stucki.ch/"
+baseurl: ""
+
+
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+
+exclude: [ "CNAME", "README.md", "Gemfile", "Gemfile.lock" ]
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+gems:
+  - jekyll-sitemap
+

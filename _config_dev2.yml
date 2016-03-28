@@ -1,0 +1,9 @@
+# Site wide configuration
+
+url: http://54.194.109.204
+baseurl: "/laetitia-stucki-v2/"
+destination: "/var/www/html/laetitia-stucki-v2/"
+
+
+gems: []
+

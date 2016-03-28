@@ -1,0 +1,34 @@
+
+
+$contrast-color: hsl(201, 67%, 61%);
+
+body, html {
+	// font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	text-rendering: optimizeLegibility !important;
+	-webkit-font-smoothing: antialiased !important;
+}
+
+/* ———— */
+div.page-text {
+	table.table {
+		margin-bottom: 50px;
+		td:nth-child( 2 ) {
+			text-align: right;
+		}
+	}
+}
+
+
+
+.align-center {
+	text-align: center !important;
+}
+.align-left {
+	text-align: left !important;
+}
+.align-right {
+	text-align: right !important;
+}
+

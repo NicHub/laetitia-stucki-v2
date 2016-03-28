@@ -1,0 +1,8 @@
+# Site wide configuration
+
+url: http://localhost:4001
+baseurl: "/"
+port: 4001
+
+sass:
+  style: no-compressed

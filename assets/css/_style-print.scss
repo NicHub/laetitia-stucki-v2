@@ -1,0 +1,118 @@
+
+body {
+	margin: 1.5cm 2cm 2cm !important;
+}
+@page {
+	size: A4;
+	margin: 0;
+}
+.page-text {
+	font-size: 11pt !important;
+	text-align: justify;
+	margin: 0cm !important;
+	width: 100% !important;
+	padding: 0 !important;
+	div.row {
+		margin: 0 !important;
+		width: 100% !important;
+		padding: 0 !important;
+		&.header {
+			margin: 0 !important;
+			padding: 0 0 0.5cm !important;
+			width: 100% !important;
+			border-bottom: 1px solid black;
+			div.titre-principal {
+				width: 100% !important;
+				padding: 0 !important;
+				margin: 0 !important;
+				text-align: center !important;
+				h1.animated {
+					text-align: center !important;
+					padding: 0 !important;
+					margin: 0 !important;
+					margin: 0;
+					font-size: 25pt;
+					line-height: 20pt;
+				}
+			}
+		}
+		div.page-inner-text {
+			margin: 0 !important;
+			padding: 0 !important;
+			width: 100% !important;
+		}
+	}
+	h1 {
+		margin-top: 1cm !important;
+		font-size: 14pt !important;
+		text-transform: uppercase;
+		text-align: center;
+	}
+	h2 {
+		font-size: 13pt !important;
+		margin: 0.5cm 0 0 !important;
+		padding-bottom: 0.10cm;
+		text-align: center;
+	}
+	h3 {
+		font-size: 12pt !important;
+	}
+	h4, h5, h6 {
+		font-size: 11pt !important;
+	}
+	iframe {
+		display: none;
+	}
+	p {
+		        hyphens: auto;
+		   -moz-hyphens: auto;
+		-webkit-hyphens: auto;
+	}
+
+	table.table {
+		margin-bottom: 0 !important;
+	}
+	img {
+		display: block;
+		max-width: 10cm !important;
+		max-height: 10cm !important;
+		margin: 0.5cm auto;
+	}
+}
+blockquote {
+	border: none;
+}
+.jumbotron {
+	display: none;
+}
+.btn-prev-next {
+	display: none;
+}
+
+form {
+	display: none;
+}
+
+footer {
+	margin: 1cm 0 0 !important;
+	font-size: 8pt !important;
+	padding: 0 !important;
+	width: 100% !important;
+	div.container {
+		margin: 0 !important;
+		font-size: 8pt !important;
+		padding: 0 !important;
+		width: 100% !important;
+	}
+}
+
+.vignette {
+	max-width: 5cm;
+	img {
+		max-width: 4cm !important;
+	}
+}
+
+div.fb-wrapper {
+	display: none;
+}
