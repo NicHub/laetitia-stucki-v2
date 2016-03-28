@@ -117,8 +117,15 @@ body#page {
 				padding: 25px 50px 50px;
 				border-radius: 20px;
 				box-shadow: 50px 50px 44px -16px rgba( 0, 0, 0, .15 );
+				h1, h2, h3, h4, h5, h6 {
+					margin: 30px 20% 10px;
+				}
+				h2 {
+					color: #2b3e43;
+				}
 				h1:first-child {
 					margin-bottom: 50px;
+					text-transform: uppercase;
 				}
 				ul {
 					padding-left: 20px;
@@ -226,4 +233,8 @@ form {
 div.fb-wrapper {
 	text-align: center;
 	margin: 20px 0;
+}
+
+:link {
+	word-break: break-all;
 }
