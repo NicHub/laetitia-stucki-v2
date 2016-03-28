@@ -11,9 +11,9 @@ published: true
 
 **<i class="fa fa-calendar"></i> Le samedi 30 avril 2016**, j’animerai 2 ateliers gratuits d’introduction à l’autohypnose :
 
-- Autohypnose *gestion de la peur*
-- Autohypnose *confiance en soi*
+- Autohypnose *gestion de la peur* de 11h30 à 12h30
+- Autohypnose *confiance en soi* de 14h à 15h
 
-Ces ateliers se dérouleront à mon cabinet de Lausanne au *Centre de Soins et de Thérapies Alternatives* [*Anama*](http://www.centre-anama.ch/). Vous êtes les bienvenus pour cette belle journée de partage !
+Ces ateliers se dérouleront à mon cabinet de Lausanne au *Centre de Soins et de Thérapies Alternatives* [*Anama*](http://www.centre-anama.ch/blog/nouvelles-portes-ouvertes-lausanne-centre-therapies-alternatives-avril-2016/). Vous êtes les bienvenus pour cette belle journée de partage !
 
 
