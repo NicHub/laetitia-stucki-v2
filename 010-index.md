@@ -5,12 +5,7 @@ layout: page
 published: true
 ---
 
-![Lætitia Stucki](./images/laetitia-stucki.jpg)
-
-{: .align-center }
-![](./images/logo-laetitia-stucki-anthracite.svg){: height="90" width="90" }
-
-*Retrouvez-moi lors de ces prochains évènements*
+# Prochains évènements
 
 **<i class="fa fa-calendar"></i> Le jeudi 24 avril 2016**, au *salon des médecines complémentaires du bien-être et de la nutrition* [(*Mednat*)](http://www.mednatexpo.ch/) à Lausanne sur le stand de *l’École Centrale d’Hypnose* [(*ECH*)](http://www.ecole-centrale-hypnose.fr/).
 
@@ -21,8 +16,14 @@ published: true
 
 Ces ateliers se dérouleront à mon cabinet de Lausanne au *Centre de Soins et de Thérapies Alternatives* [*Anama*](http://www.centre-anama.ch/blog/nouvelles-portes-ouvertes-lausanne-centre-therapies-alternatives-avril-2016/). Vous êtes les bienvenus pour cette belle journée de partage !
 
-{% include facebook-button-box_count.liquid %}
-
 {: .align-center }
 Suivez mon actualité sur
 [ma page Facebook<br/><i style="font-size:30pt;" class="fa fa-facebook-official"></i>]({{ site.data.infos.url-facebook }})
+
+![Lætitia Stucki](./images/laetitia-stucki.jpg)
+
+{: .align-center }
+![](./images/logo-laetitia-stucki-anthracite.svg){: height="90" width="90" }
+
+{% include facebook-button-box_count.liquid %}
+
