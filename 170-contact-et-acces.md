@@ -18,7 +18,7 @@ Suisse
 
 {: .align-center }
 <mailto:laetitia.stucki@gmail.com>
-<i class="fa fa-mobile"></i> +41 79 326 30 64
+<i class="fa fa-mobile"></i> <a href="tel:+41 79 326 30 64">+41 79 326 30 64</a>
 
 {% include formspree.liquid %}
 
