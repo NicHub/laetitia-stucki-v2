@@ -25,8 +25,8 @@ $( document ).ready( function() {
   // gauche-droite du clavier (mousetrap-1.5.3.min.js)
   // et le balayage gauche-droite de l’écran (jquery.mobile.custom.min.js).
   ( function() {
-    $( "body" ).on( "swipeleft",  function( e ) { navigate_prev_page(); });
-    $( "body" ).on( "swiperight", function( e ) { navigate_next_page(); });
+    $( "body" ).on( "swiperight", function( e ) { navigate_prev_page(); });
+    $( "body" ).on( "swipeleft",  function( e ) { navigate_next_page(); });
     Mousetrap.bind( 'left',  function( e ) { navigate_prev_page(); });
     Mousetrap.bind( 'esc',   function( e ) { navigate_home_page(); });
     Mousetrap.bind( 'right', function( e ) { navigate_next_page(); });
