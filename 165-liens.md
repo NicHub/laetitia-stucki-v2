@@ -42,3 +42,9 @@ Lausanne
 Hypnothérapeute
 Genève
 [www.hypnose-therapeutique-geneve.ch](http://www.hypnose-therapeutique-geneve.ch/)
+
+{: .align-center .margin-top-20 }
+*Catherine Jörg*
+Hypnothérapeute, Réflexologue
+Seigneux
+[catherinejorg.ch](http://catherinejorg.ch/)
