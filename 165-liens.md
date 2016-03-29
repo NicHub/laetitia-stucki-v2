@@ -26,7 +26,7 @@ Paris & Genève
 [www.ecole-centrale-hypnose.fr](http://www.ecole-centrale-hypnose.fr/)
 
 {: .align-center .margin-top-20 }
-*Émilie Rat*
+*Sonia Rat*
 Hypnothérapeute
 Aix-les-Bains, France
 [www.hypnoequilibre.com](http://www.hypnoequilibre.com/)
