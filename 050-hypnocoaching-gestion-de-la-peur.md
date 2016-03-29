@@ -16,4 +16,4 @@ Vous désirez :
 
 ![...](../images/laetitia-stucki-hypnose-002.jpg)
 
-Par l’autohypnose, l’utilisation et l’apprentissage de techniques hypnotiques ainsi qu’un coaching adapté et sur mesure vous pouvez acquérir les compétences nécessaires pour éliminer, transformer ou utiliser la peur de manière à avancer plus librement et réaliser et créer dans votre vie ce qui vous tient vraiment à cœur !
+Par l’autohypnose, l’utilisation et l’apprentissage de techniques hypnotiques ainsi qu’un coaching adapté et sur mesure vous pouvez acquérir les compétences nécessaires pour éliminer, transformer ou utiliser la peur de manière à avancer plus librement, réaliser et créer dans votre vie ce qui vous tient vraiment à cœur !
