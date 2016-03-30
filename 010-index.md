@@ -22,7 +22,7 @@ Ces ateliers se dérouleront à mon cabinet de Lausanne au *Centre de Soins et d
 
 {: .align-center .margin-top-50 }
 Suivez mon actualité sur
-[ma page Facebook<br/><i style="font-size:30pt;" class="fa fa-facebook-official"></i>]({{ site.data.infos.url-facebook }})
+[ma page Facebook<br/><i style="font-size:30pt;" class="fa fa-facebook-official"></i>]({{ site.data.infos.facebook.fb-url }})
 
 ![Lætitia Stucki](./images/laetitia-stucki.jpg)
 
