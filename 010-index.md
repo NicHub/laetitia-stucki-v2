@@ -7,9 +7,6 @@ published: true
 
 # Prochains évènements
 
-<<<<<<< HEAD
-**<i class="fa fa-calendar"></i> Le dimanche 24 avril 2016**, au *salon des médecines complémentaires du bien-être et de la nutrition* [(*Mednat*)](http://www.mednatexpo.ch/) à Lausanne sur le stand de *l’École Centrale d’Hypnose* [(*ECH*)](http://www.ecole-centrale-hypnose.fr/).
-=======
 ## Salon Mednat
 
 **<i class="fa fa-calendar"></i> Le dimanche 24 avril 2016**, au *salon des médecines complémentaires du bien-être et de la nutrition* [(*Mednat*)](http://www.mednatexpo.ch/) à Lausanne sur le stand de *l’École Centrale d’Hypnose* [(*ECH*)](http://www.ecole-centrale-hypnose.fr/).
@@ -32,7 +29,6 @@ published: true
 
 
 ## Ateliers gratuits
->>>>>>> origin/gh-pages
 
 **<i class="fa fa-calendar"></i> Le samedi 30 avril 2016**, j’animerai 2 ateliers gratuits d’introduction à l’autohypnose :
 
