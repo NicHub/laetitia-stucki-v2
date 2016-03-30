@@ -33,7 +33,7 @@ published: true
 {: .table .table-condensed .table-responsive }
 | ---                                                                | ---:         |
 | Introduction à l’autohypnose, durée 3 h, sur rendez-vous           | 150&nbsp;CHF |
-| Cours d’autohypnose, *“Réalisez vos rêves et atteignez vos objectifs”*, durée 2 jours <small class="brun"><em>Prochaines dates, les 23 et 24 avril 2016</em></small> | 350&nbsp;CHF |
+| Cours d’autohypnose, *“Réalisez vos rêves et atteignez vos objectifs”*, durée 2 jours <small class="brun"><em>Prochaines dates, les 21 et 22 mai 2016</em></small> | 350&nbsp;CHF |
 
 {: .align-center }
 ***<i class="fa fa-gift"></i> Faites plaisir à vos proches : offrez un bon cadeau !***

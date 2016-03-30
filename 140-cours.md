@@ -12,7 +12,7 @@ published: true
 
 ## Je vous propose 2 cours d’autohypnose
 
-1. **Le cours *Autohypnose, réalisez vos rêves et atteignez vos objectifs* sur 2 jours.** <span class="brun">Prochaines dates : les 23 et 24 avril 2016</span>
+1. **Le cours *Autohypnose, réalisez vos rêves et atteignez vos objectifs* sur 2 jours.** <span class="brun">Prochaines dates : les 21 et 22 mai 2016</span>
 2. **Le cours *Autohypnose* de 3 heures, sur rendez-vous**
 
 <hr/>
@@ -96,7 +96,7 @@ Lors de cette quatrième partie, vous allez travailler point par point les étap
 &nbsp;
 
 {: .align-center }
-<span class="brun">Prochaines dates : les 23 et 24 avril 2016</span>
+<span class="brun">Prochaines dates : les 21 et 22 mai 2016</span>
 
 ## Inscriptions
 
