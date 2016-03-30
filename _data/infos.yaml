@@ -4,8 +4,13 @@ images:
   logo: images/logo-laetitia-stucki-v03-50x50.png
 slogan: Thérapies brèves<br/>&amp; qualité de vie
 titre: Lætitia Stucki
+
 email-obfuscation: "&#110;&#106;&#100;&#64;&#98;&#108;&#x75;&#x65;&#x77;&#x69;&#110;&#46;&#x63;&#104;"
 email-obfuscation-cc:
   - "&#110;&#x69;&#x63;&#x6f;&#108;&#x61;&#x73;&#46;&#106;&#x65;&#x61;&#110;&#x6d;&#x6f;&#110;&#x6f;&#100;&#64;&#98;&#108;&#x75;&#x65;&#x77;&#x69;&#110;&#46;&#x63;&#104;"
   - "&#108;&#x61;&#x65;&#116;&#x69;&#116;&#x69;&#x61;&#46;&#x73;&#116;&#x75;&#x63;&#x6b;&#x69;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;"
-url-facebook: https://www.facebook.com/hypnose.stucki # ! il faut changer l’URL dans menu.yaml en plus de celle-là
+
+facebook:
+  fb-url: https://www.facebook.com/hypnose.stucki # ! il faut changer l’URL dans menu.yaml en plus de celle-là
+  og-image: images/laetitia-stucki-fb.jpg
+  og-description: "Découvrez les bienfaits de l’hypnose pour la confiance en soi, la gestion de la peur, la communication et la sexualité sur mon tout nouveau site internet."
