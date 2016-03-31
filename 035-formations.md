@@ -32,7 +32,7 @@ published: true
 
 ## Sexualité
 
-- Stage Tantra – Chamanisme cycles 1, 2 et 3 - Marie Jésus Sandoval – Amrita
+- Formation Tantra – Chamanisme cycles 1, 2 et 3 - Marie Jésus Sandoval – Amrita
 
 ## Vie en nature
 
