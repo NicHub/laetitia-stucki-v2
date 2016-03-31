@@ -24,7 +24,7 @@ published: true
 
 ## Soins énergétiques
 
-- Formation en lithothérapie ou thérapie - les pierres - Thierry-Tri-Lederrey au centre Triveni.
+- Formation en lithothérapie ou thérapie par les pierres - Thierry-Tri-Lederrey au centre Triveni.
 - Formation en soins énergétiques - Thierry-Tri-Lederrey au centre Triveni.
 - Stages de Chamanisme - Thierry-Tri-Lederrey au centre Triveni
 - Stage guérison-soins énergétiques et développement personnel - Lalita Bauqui
