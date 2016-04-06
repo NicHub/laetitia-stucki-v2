@@ -16,7 +16,7 @@ published: true
 *Moon Mother*
 
 {: .img-align-left }
-![Lætitia Stucki](../images/laetitia-stucki.jpg){: height="350" width="234"  }
+![Lætitia Stucki](../images/laetitia-stucki.jpg){: width="234"  }
 
 J’ai la conviction depuis de nombreuses années que tout est en nous, que l’être humain a des capacités insoupçonnées en lui pour subvenir à ses besoins physiques, psychiques et spirituels. C’est donc en suivant cette idée que j’ai orienté ma vie.
 
