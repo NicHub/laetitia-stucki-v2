@@ -43,11 +43,11 @@ Rue de la Tour 33
 CH–1004 Lausanne
 
 {: .align-center }
-<http://www.delaterrealalune.ch>
+<http://www.centre-anama.ch/>
 
 {: .align-center }
 Plan Google Maps
-<http://bit.ly/1BlnfdQ>
+<https://goo.gl/maps/CmFg2kM4rMC2>
 
 ![](../images/laetitia-stucki-cabinet-lausanne.jpg)
 
