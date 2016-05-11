@@ -14,4 +14,10 @@ published: true
 - Autohypnose *"confiance en soi"* vendredi 10 juin de 16h à 17h
 - Autohypnose *"augmentez votre plaisir sexuel"* samedi 11 juin de 13h à 14h
 
-Vous pourrez également me retrouver sur mon stand durant les 3 jours du festival et y découvrir des séances d'hypnose et de soins énergétiques de 30min et y passer de beaux moments de partages. :-)
+Je vous accueillerais également avec grand plaisir à mon stand, pour vous permettre de découvrir les soins que je vous propose par des séances de 30min :
+
+- L’hypnose et l’hypnosexologie
+- Les soins énergétiques par l’ utilisation du magnétisme, de la lithothérapie et du tambour
+- Le soin Moon Mother Avancé (bénédiction de l’utérus)
+
+Il s’agira pour vous d’un moment de découverte et de connexion à vous-même dans un espace d’écoute et de bienveillance de coeur à coeur.
