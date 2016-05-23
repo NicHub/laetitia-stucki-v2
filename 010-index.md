@@ -7,7 +7,7 @@ published: true
 
 # Prochains évènements
 
-## *Festival de la Terre* ateliers gratuits
+## *Festival de la Terre*<br/>ateliers gratuits
 
 **<i class="fa fa-calendar"></i> Les 10, 11 et 12 juin**, aura lieu le *Festival de la Terre* à Lausanne ! J’y animerai 2 ateliers gratuits d’introduction à l’autohypnose dans le *Dôme 2* :
 
