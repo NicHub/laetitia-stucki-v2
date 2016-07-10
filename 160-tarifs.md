@@ -26,15 +26,17 @@ published: true
 
 {: .table .table-condensed .table-responsive }
 | ---                                                                | ---:         |
-| Séance de lithothérapie et soins énergétiques <br/><small class="brun"><em>Il est également possible de coupler l’hypnose à un soin énergétique, auquel cas le tarif reste à 120 CHF la séance.</em></small> | 120&nbsp;CHF |
+| Séance de lithothérapie et soins énergétiques<br/><small class="brun"><em>Il est également possible de coupler l’hypnose à un soin énergétique, auquel cas le tarif reste à 120 CHF la séance.</em></small> | 120&nbsp;CHF |
 
 ## Cours
 
+<p class="align-center"><small class="brun"><em>Prix par personne</em></small></p>
+
 {: .table .table-condensed .table-responsive }
-| ---                                                                | ---: 
-| Ateliers d'autohypnose, durée 1h30, sur rendez-vous: 1 pers. 100&nbsp;CHF, 2 pers. 80&nbsp;CHF/pp, 3 pers. 70&nbsp;CHF/pp, 4 pers 60&nbsp;CHF/pp      |
-| Introduction à l’autohypnose, durée 3 h, sur rendez-vous           | 150&nbsp;CHF |
-| Cours d’autohypnose, *“Réalisez vos rêves et atteignez vos objectifs”*, durée 2 jours <small class="brun"><em>Prochaines dates, les 21 et 22 mai 2016</em></small> | 350&nbsp;CHF |
+| ---                                                                                                                                                                | ---:                                          |
+| Ateliers d'autohypnose, durée 1 h 30, sur rendez-vous<br/>1 pers.<br/>2 pers.<br/>3 pers.<br/>4 pers.                                                              | <br/>100 CHF<br/>80 CHF<br/>70 CHF<br/>60 CHF |
+| Introduction à l’autohypnose, durée 3 h, sur rendez-vous                                                                                                           | 150&nbsp;CHF                                  |
+| Cours d’autohypnose, *“Réalisez vos rêves et atteignez vos objectifs”*, durée 2 jours <small class="brun"><em>Prochaines dates, les 21 et 22 mai 2016</em></small> | 350&nbsp;CHF                                  |
 
 {: .align-center }
 ***<i class="fa fa-gift"></i> Faites plaisir à vos proches : offrez un bon cadeau !***
