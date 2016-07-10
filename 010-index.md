@@ -26,12 +26,12 @@ Ces ateliers se déroulent sur rendez-vous à l’une de mes salles de soins, en
 
 Au plaisir de vous y rencontrer !
 
-## Inscriptions et tarif
+## Inscriptions et tarifs
 
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarif](http://laetitia-stucki.ch/tarifs/)
+[Tarifs](http://laetitia-stucki.ch/tarifs/)
 
 {: .align-center .margin-top-50 }
 Suivez mon actualité sur

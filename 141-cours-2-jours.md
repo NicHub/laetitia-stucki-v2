@@ -76,15 +76,10 @@ Lors de cette quatrième partie, vous allez travailler point par point les étap
 {: .align-center }
 <span class="brun">Prochaines dates : les 21 et 22 mai 2016</span>
 
-## Inscriptionset tarif
-
-
+## Inscriptions et tarifs
 
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-
-[Tarif](http://laetitia-stucki.ch/tarifs/)
-
-<hr style="page-break-after:always;"/>
+[Tarifs](http://laetitia-stucki.ch/tarifs/)
 

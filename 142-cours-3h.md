@@ -18,9 +18,9 @@ Vous désirez :
 Je vous offre la possibilité d’apprendre ces bases de l’autohypnose. Que vous soyez seul ou en groupe de maximum quatre personnes à l’une de mes salles de soins. Le cours dure trois heures et peut être donné à la date qui vous convient. Vous trouverez le tarif [ici](http://laetitia-stucki.ch/tarifs/).
 
 
-## Inscriptions
+## Inscriptions et tarifs
 
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-
+[Tarifs](http://laetitia-stucki.ch/tarifs/)

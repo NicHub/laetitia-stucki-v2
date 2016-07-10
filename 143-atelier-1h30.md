@@ -25,9 +25,9 @@ Chaque atelier est composé :
 
 Ces ateliers se déroulent sur rendez-vous à l’une de mes salles de soins. En individuel ou jusqu’à 4 personnes.
 
-## Inscriptions et tarif
+## Inscriptions et tarifs
 
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarif](http://laetitia-stucki.ch/tarifs/)
+[Tarifs](http://laetitia-stucki.ch/tarifs/)
