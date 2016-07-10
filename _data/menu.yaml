@@ -41,12 +41,15 @@
 
     - titre: Cours
       permalink: cours/
-      titre: Cours de 2 jours: Autohypnose, "Réalisez-vos rêves et atteignez vos objectifs"
-      permalink: cours de 2 jours: Autohypnose, "Réalisez-vos rêves et atteignez vos objectifs"/
-      title: Cours de 3h *autohypnose*
-      permalink: cours autohypnose de 3h /
-      title: Les ateliers de 1h30
-      permalink: cours 1h30/
+    - titre: "Cours de 2 jours : Autohypnose, “Réalisez-vos rêves et atteignez vos objectifs”"
+      permalink: cours-de-2-jours-autohypnose/
+    - titre: "Cours de 3 heures : Autohypnose"
+      permalink: cours-de-3h-autohypnose/
+    - titre: "Les ateliers de 1 h 30"
+      permalink: atelier-de-1h30-autohypnose/
+
+
+
 
 
 - titre: Évènements

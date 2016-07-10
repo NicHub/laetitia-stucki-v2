@@ -1,6 +1,6 @@
 ---
-title: Cours de 3h *autohypnose*
-permalink: cours autohypnose de 3h /
+title: Cours de 3h autohypnose
+permalink: cours-de-3h-autohypnose/
 layout: page
 published: true
 ---

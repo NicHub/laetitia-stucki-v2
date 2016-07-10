@@ -1,6 +1,6 @@
 ---
-title: Cours de 2 jours: Autohypnose, "Réalisez-vos rêves et atteignez vos objectifs"
-permalink: cours de 2 jours: Autohypnose, "Réalisez-vos rêves et atteignez vos objectifs"/
+title: "Cours de 2 jours: Autohypnose, “Réalisez-vos rêves et atteignez vos objectifs”"
+permalink: cours-de-2-jours-autohypnose/
 layout: page
 published: true
 ---
