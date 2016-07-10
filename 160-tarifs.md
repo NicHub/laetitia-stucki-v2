@@ -32,7 +32,7 @@ published: true
 
 {: .table .table-condensed .table-responsive }
 | ---                                                                | ---: 
-| Ateliers d'autohypnose, durée 1h30, sur rendez-vous 1 pers. 100.-, 2 pers. 80.-/pp, 3 pers. 70.-/pp, 4 pers 60.-/pp      |
+| Ateliers d'autohypnose, durée 1h30, sur rendez-vous 1 pers. 100.-, 2 pers. 80&nbsp;CHF/pp, 3 pers. 70.-/pp, 4 pers 60.-/pp      |
 | Introduction à l’autohypnose, durée 3 h, sur rendez-vous           | 150&nbsp;CHF |
 | Cours d’autohypnose, *“Réalisez vos rêves et atteignez vos objectifs”*, durée 2 jours <small class="brun"><em>Prochaines dates, les 21 et 22 mai 2016</em></small> | 350&nbsp;CHF |
 
