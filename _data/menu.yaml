@@ -34,13 +34,18 @@
 
 
 
+	  
+	  
+- titre: Cours
+  menu:
+    - titre: Cours
+      permalink: cours/
 
 
 - titre: Évènements
   menu:
 
-    - titre: Cours
-      permalink: cours/
+    
     - titre: Manifestations
       permalink: evenements/
 
