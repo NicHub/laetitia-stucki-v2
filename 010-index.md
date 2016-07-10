@@ -5,22 +5,25 @@ layout: page
 published: true
 ---
 
-# Prochains évènements
+## Des nouveautés pour vous :-)
 
-## *Festival de la Terre*<br/>ateliers gratuits
+Il me tient  particulièrement à coeur de  transmettre des techniques et méthodes simples d’autohypnose que chacun puisse utiliser facilement par soi même et pour son mieux-être. J’ai donc mis sur pied divers ateliers de 1h30 sur les thèmes suivants :
 
-**<i class="fa fa-calendar"></i> Les 10, 11 et 12 juin**, aura lieu le *Festival de la Terre* à Lausanne ! J’y animerai 2 ateliers gratuits d’introduction à l’autohypnose dans le *Dôme 2* :
+-Autohypnose « gestion de la peur »
+-Autohypnose « confiance en soi »
+-Autohypnose « visualisation pour atteindre vos objectifs »
+-Autohypnose « augmenter votre dynamisme et votre énergie »
+-Autohypnose « augmentez votre plaisir sexuel »
 
-- Autohypnose *“confiance en soi”* vendredi 10 juin de 16 h à 17 h
-- Autohypnose *“augmentez votre plaisir sexuel”* samedi 11 juin de 13 h à 14 h
+Chaque atelier est composé :
+- D’une explication de ce qu’est l’état d’hypnose
+- De l’apprentissage d’une technique pour  entrer en autohypnose
+- De l’apprentissage d’un protocole vous permettant de travailler de manière ciblée sur le sujet de l’atelier
+- D’un support de cours
 
-Je vous accueillerai également avec grand plaisir à mon stand, pour vous permettre de découvrir les soins que je vous propose par des séances de 30 minutes :
+Ces ateliers se déroulent sur rendez-vous à l’une de mes salles de soins. En individuel ou jusqu’à 4 personnes. Le tarif est dégressif en fonction du nombre de personnes.
 
-- Hypnose et hypnosexologie
-- Soins énergétiques par l’utilisation du magnétisme, de la lithothérapie et du tambour
-- Soin *Moon Mother Avancé* (bénédiction de l’utérus)
-
-Il s’agira pour vous d’un moment de découverte et de connexion à vous-même dans un espace d’écoute et de bienveillance de cœur à cœur.
+Au plaisir de vous y rencontrer :-) !
 
 {: .align-center .margin-top-50 }
 Suivez mon actualité sur
