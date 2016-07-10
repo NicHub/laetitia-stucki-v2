@@ -39,8 +39,11 @@
 - titre: Cours
   menu:
 
-    - titre: Cours
+    - titre: Descriptif des cours
       permalink: cours/
+
+    - separator: ""
+
     - titre: "Cours de 2 jours : Autohypnose, “Réalisez-vos rêves et atteignez vos objectifs”"
       permalink: cours-de-2-jours-autohypnose/
     - titre: "Cours de 3 heures : Autohypnose"
