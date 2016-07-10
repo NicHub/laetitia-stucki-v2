@@ -11,13 +11,11 @@ published: true
 Vous désirez :
 
 - Apprendre à entrer rapidement et facilement en autohypnose, c’est-à-dire à vous hypnotiser vous-même, pour faire plus facilement face aux situations du quotidien.
-- Mieux comprendre le fonctionnement de nos croyances et de quelle façon elles agissent sur votre vie.
+- Mieux comprendre le fonctionnement de vos croyances et de quelle façon elles agissent sur votre vie.
 - Apprendre des techniques de lâcher-prise pour vous permettre d’avancer plus facilement dans la vie.
 - Connaître le déroulement d’une séance d’autohypnose ainsi que la façon de construire des suggestions pour optimiser vos résultats.
 
-Je vous offre la possibilité d’apprendre ces bases de l’autohypnose. Que vous soyez seul ou en groupe de maximum quatre personnes. Le cours dure trois heures et peut être donné à la date qui vous convient.
-
-Ce cours se déroule sur rendez-vous à l’une de mes salles de soins. En individuel ou jusqu’à 4 personnes. Le [tarif](http://laetitia-stucki.ch/tarifs/) est dégressif en fonction du nombre de personnes.
+Je vous offre la possibilité d’apprendre ces bases de l’autohypnose. Que vous soyez seul ou en groupe de maximum quatre personnes à l’une de mes salles de soins. Le cours dure trois heures et peut être donné à la date qui vous convient. Vous trouverez le tarif [ici](http://laetitia-stucki.ch/tarifs/).
 
 
 ## Inscriptions
