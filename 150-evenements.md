@@ -9,7 +9,7 @@ published: true
 
 ## En attendant les évènements à venir, je vous propose mes nouveaux ateliers privés et semi-privés !
 
-Il me tient  particulièrement à coeur de  transmettre des techniques et méthodes simples d’autohypnose que vous puissiez utiliser facilement par vous-même et pour votre mieux-être. J’ai donc mis sur pied divers ateliers de 1h30 sur les thèmes suivants :
+Il me tient  particulièrement à coeur de  transmettre des techniques et méthodes simples d’autohypnose que vous pourrez utiliser facilement par vous-même et pour votre mieux-être. J’ai donc mis sur pied divers ateliers de 1h30 sur les thèmes suivants :
 
 - Autohypnose « gestion de la peur »
 - Autohypnose « confiance en soi »
