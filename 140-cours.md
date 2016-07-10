@@ -14,6 +14,7 @@ published: true
 
 1. **Le cours *Autohypnose, réalisez vos rêves et atteignez vos objectifs* sur 2 jours.** <span class="brun">Prochaines dates : les 21 et 22 mai 2016</span>
 2. **Le cours *Autohypnose* de 3 heures, sur rendez-vous**
+3. **Les ateliers d'autohypnose de 1h30, sur rendez-vous**
 
 <hr/>
 
@@ -115,6 +116,24 @@ Si vous désirez :
 - Apprendre des techniques de lâcher-prise pour vous permettre d’avancer plus facilement dans la vie.
 - Connaître le déroulement d’une séance d’autohypnose ainsi que la façon de construire des suggestions pour optimiser vos résultats.
 - Je vous offre la possibilité d’apprendre ces bases de l’autohypnose. Que vous soyez seul ou en groupe de maximum quatre personnes. Le cours dure trois heures et peut être donné à la date qui vous convient.
+
+## Les ateliers
+
+- Autohypnose « gestion de la peur »
+- Autohypnose « confiance en soi »
+- Autohypnose « visualisation pour atteindre vos objectifs »
+- Autohypnose « augmenter votre dynamisme et votre énergie »
+- Autohypnose « augmentez votre plaisir sexuel »
+
+Chaque atelier est composé :
+
+- D’une explication de ce qu’est l’état d’hypnose
+- De l’apprentissage d’une technique pour entrer en autohypnose
+- De l’apprentissage d’un protocole vous permettant de travailler de manière ciblée sur le sujet de l’atelier
+- D’un support de cours
+
+Ces ateliers se déroulent sur rendez-vous à l’une de mes salles de soins. En individuel ou jusqu’à 4 personnes. Le [tarif](http://laetitia-stucki.ch/tarifs/) est dégressif en fonction du nombre de personnes.
+
 
 ![...](../images/laetitia-stucki-hypnose-007.jpg)
 
