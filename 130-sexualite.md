@@ -9,7 +9,7 @@ published: true
 
 ![...](../images/coupe-yoni-lingam.jpg)
 
-L’hypnose et les soins énergétiques sont des outils de choix pour un travail spécifique sur la sexualité.  Qu’il s’agisse de se libérer de troubles sexuels ou tout simplement de s’épanouir sexuellement.
+L’hypnose et les soins énergétiques sont des outils de choix pour un travail spécifique sur la sexualité. Qu’il s’agisse de se libérer de troubles sexuels ou tout simplement de s’épanouir sexuellement.
 
 La sexualité tient une part importante dans nos vies, nous avons été conçus pour la plupart par un acte sexuel, puis au fil de notre vie nous l’utilisons pour nous reproduire, pour le plaisir, pour tisser et renforcer nos liens amoureux parfois même pour notre développement personnel et spirituel.
 

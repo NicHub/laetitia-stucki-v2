@@ -17,7 +17,7 @@ Le fumeur est capable de se passer du tabac en dormant sans ressentir de manque,
 
 **Comment intervient l’hypnosonothérapie ?**
 
-La méthode proposée par Dany Dan Debeix vise à une désintoxication progressive du fumeur. L’inconscient est reconditionné pour enrayer l’effet de manque psychique et physique (évitant la prise de poids et la nervosité) et aider le fumeur à se débarrasser de sa gestuelle tabagique.  À la suite de votre séance d’hypnose (sans sommeil), vous installerez progressivement et définitivement en vous, la motivation d’une existence sans tabac et les réflexes positifs qui accompagnent cette nouvelle vie, grâce à l’écoute quotidienne pendant 8 à 15 jours du DVD complété d’un livre offert lors de la séance.
+La méthode proposée par Dany Dan Debeix vise à une désintoxication progressive du fumeur. L’inconscient est reconditionné pour enrayer l’effet de manque psychique et physique (évitant la prise de poids et la nervosité) et aider le fumeur à se débarrasser de sa gestuelle tabagique. À la suite de votre séance d’hypnose (sans sommeil), vous installerez progressivement et définitivement en vous, la motivation d’une existence sans tabac et les réflexes positifs qui accompagnent cette nouvelle vie, grâce à l’écoute quotidienne pendant 8 à 15 jours du DVD complété d’un livre offert lors de la séance.
 
 **La quantité fumée diminuera sans effort de jour en jour sans privation ni contrainte. Ainsi se créera un nouvel automatisme de non-fumeur.**
 

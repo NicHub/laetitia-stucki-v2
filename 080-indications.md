@@ -19,7 +19,7 @@ Phobies, dépressions, insomnies, bégaiements, toc, angoisses, timidité, agres
 
 ## Sexualité
 
-Dysfonctions sexuelles et de reproduction, éjaculation précoce, anorgasmie, vaginisme (muscles  qui se crispent), dyspaneurie (douleurs lors des rapports sexuels), problèmes érectiles, trouble de la lubrification, libération de certains blocages, conditionnements ou croyances sexuelle, maîtriser l'énergie sexuelle (énergie de vie), renouer avec votre corps et vos sensations, apprendre le lâcher-prise essentiel au plaisir, retrouver l’amour de vous-même et de votre corps, épanouissement sexuel, retrouver – augmenter – diminuer la libido et le plaisir.
+Dysfonctions sexuelles et de reproduction, éjaculation précoce, anorgasmie, vaginisme (muscles qui se crispent), dyspaneurie (douleurs lors des rapports sexuels), problèmes érectiles, trouble de la lubrification, libération de certains blocages, conditionnements ou croyances sexuelle, maîtriser l'énergie sexuelle (énergie de vie), renouer avec votre corps et vos sensations, apprendre le lâcher-prise essentiel au plaisir, retrouver l’amour de vous-même et de votre corps, épanouissement sexuel, retrouver – augmenter – diminuer la libido et le plaisir.
 
 ## Préparation mentale
 
