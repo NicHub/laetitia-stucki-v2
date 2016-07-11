@@ -10,13 +10,21 @@ published: true
 
 ![...](../images/laetitia-stucki-cours.jpg)
 
-## Je vous propose 3 types de cours d’autohypnose
+## Je vous propose 3 types de cours d’autohypnose
 
-1. [**Le cours *Autohypnose, réalisez vos rêves et atteignez vos objectifs* sur 2 jours.**]() <span class="brun">Prochaines dates : les 21 et 22 mai 2016</span>
-2. [**Le cours *Autohypnose* de 3 heures, sur rendez-vous**]()
-3. [**Les ateliers d'autohypnose de 1h30, sur rendez-vous**]()
+<br/>
+
+{: .mise-en-evidence-1 }
+[**Le cours *Autohypnose, réalisez vos rêves et atteignez vos objectifs* sur 2 jours.**](/cours-de-2-jours-autohypnose/) <small class="brun"><br/>Prochaines dates<br/>les 21 et 22 mai 2016</small>
+[**Le cours *Autohypnose* de 3 heures**](/cours-de-3h-autohypnose/)<small class="brun"><br/>sur rendez-vous</small>
+[**Les ateliers d'autohypnose de 1 h 30**](/atelier-de-1h30-autohypnose/)<small class="brun"><br/>sur rendez-vous</small>
+
+<br/>
 
 <hr/>
+
+
+
 
 ## Pourquoi suivre un cours d’autohypnose ?
 
