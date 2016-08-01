@@ -6,6 +6,112 @@ published: false
 ---
 
 
+Table des matières
+==================
+
+- Le biais “avoir un avis à tout prix”
+- Le biais “avoir raison à tout prix”
+- Le biais “croissance”
+- ???
+- ???
+- ???
+- ???
+- Contraste
+- Parce que
+- La réciprocité
+- Engagement et cohérence
+- La preuve sociale
+- La sympathie
+- L’autorité
+- La rareté
+- Disponibilité cascade
+- L’aversion aux pertes
+- L’aversion à la dépossession ou effet de dotation
+- Négligence de probabilité
+- La perception sélective
+- L’erreur ultime d’attribution
+- L’erreur fondamentale d’attribution
+- L’excès de confiance
+- La dissonance cognitive
+- Le conformisme
+- Myopie face au plaisir
+- La paréidolie
+- Les faux souvenirs
+- La cécité d’inattention
+- La croyance en la justice du monde
+- Les prophéties autoréalisatrices
+- La connaissance rétrospective
+- Prédominance des émotions
+- Rationalisation à posteriori
+- Le biais d’ancrage
+- Le biais d’attention
+- Le biais d’attribution de cause
+- Le biais de cadrage
+- Le biais d’écart d’empathie
+- Le biais de confirmation d’hypothèse
+- Biais de conformité
+- Le biais de conjonction
+- Le biais de conservatisme
+- Le biais de croyance
+- Le biais de disponibilité
+- Le biais de distinction
+- Le biais de l’angle mort
+- Le biais d’information
+- Le biais d’optimisme
+- Le biais de pessimisme
+- Le biais de négativité
+- Le biais de réactance
+- Le biais “zéro risque”
+- Le biais égocentrique
+- Le biais de confirmation
+- Le biais rétrospectif
+- Le biais de représentativité
+- Le biais de la disponibilité en mémoire
+- Le biais de statu quo
+- Le biais d’omission
+- Le biais de faux consensus
+- Le biais de conformisme
+- Le biais d’autocomplaisance
+- Le biais de saillance
+- L’effet Barnum ou Forer
+- L’effet Barnum
+- L’effet *cheerleader*
+- L’effet d’ambiguïté
+- Effet de contraste
+- L’effet Decoy
+- L’effet de mode
+- L’effet retour de flamme ou boomerang
+- L’effet boomerang
+- L’effet de victime identifiable
+- L’effet Ikea
+- L’effet Dunning-Kruger
+- L’effet de halo
+- L’effet de supériorité des images
+- L’effet d’autopertinence
+- L’effet Von Restorff
+- L’effet Zeigarnik
+- L’effet de simple exposition
+- L’illusion des séries
+- L’illusion de contrôle
+- L’illusion de corrélation
+- L’illusion de savoir
+- L’illusion de contrôle
+- Les corrélations illusoires
+
+Le biais “avoir un avis à tout prix”
+====================================
+<!-- ajout Nico, 2016-08-01 -->
+Lorsque nous considérons que nous devrions connaître un sujet nous avons tendance à vouloir étaler des connaissances que nous n’avons pas forcément. Certains d’entre nous peuvent même aller un cran plus loin et donner leur avis sur des sujets qui leur sont totalement étrangers. Ne pas avoir d’avis peut être considéré comme étant très dévalorisant dans les sociétés qui privilégient le mental.
+
+Le biais “avoir raison à tout prix”
+===================================
+<!-- ajout Nico, 2016-08-01 -->
+Avoir raison est devenu un besoin quasi viscéral dans les sociétés qui privilégient la performance, à tel point qu’avoir tort peut être perçu comme une mort psychologique.
+
+Le biais “croissance ou accumulation”
+=====================================
+<!-- ajout Nico, 2016-08-01 -->
+Croyance qui nous pousse à accumuler toujours plus pour être plus heureux. Le “plus” peut prendre des formes très diverses : objets, argent, conquêtes amoureuses ou sexuelles, nourriture, boisson... Et pour contrer le biais de croissance, certains privilégient la décroissance, qui, poussée un peu trop loin, devient un biais elle aussi.
 
 ???
 ===
@@ -30,7 +136,7 @@ Biais de croire que dans un couple ou dans une équipe on est celui qui bosse le
 Contraste
 =========
 
-Si le deuxième objet est différent du premier, nous aurons tendance à le voir plus différent qu’il ne l’est en réalité. Si nous soulevons d’abord un objet léger, puis un objet lourd, nous trouverons le deuxième objet plus lourd que si nous n’avions pas soulevé le premier objet. Si dans une soirée nous discutons avec un homme très beau et qu’un homme qui l’est moins vient se joindre au groupe, le second nous paraîtra moins séduisant qu’il ne l’est en réalité. Si vous avez devant vous un seau d’eau froide, un sceau à température ambiante et un seau d’eau chaude et que vous mettez une main dans l’eau froide et l’autre dans l’eau chaude puis que vous plongez vos 2 mains dans l’eau tiède, la main chaude trouvera cette eau plus froide et la main froide trouvera cette eau plus chaude. En vente il faut présenter en premier les articles les plus chers, ainsi, les articles les moins chers paraissent moins chers même s’ils sont à un prix élevé. «  Je vous suggère quand vous rentrez chez vous ce soir, de lever les yeux vers le ciel pour contempler l’immensité de l’univers. Vous percevrez alors l’insignifiance de nos pertes du deuxième trimestre. » :-)
+Si le deuxième objet est différent du premier, nous aurons tendance à le voir plus différent qu’il ne l’est en réalité. Si nous soulevons d’abord un objet léger, puis un objet lourd, nous trouverons le deuxième objet plus lourd que si nous n’avions pas soulevé le premier objet. Si dans une soirée nous discutons avec un homme très beau et qu’un homme qui l’est moins vient se joindre au groupe, le second nous paraîtra moins séduisant qu’il ne l’est en réalité. Si vous avez devant vous un seau d’eau froide, un seau à température ambiante et un seau d’eau chaude et que vous mettez une main dans l’eau froide et l’autre dans l’eau chaude puis que vous plongez vos 2 mains dans l’eau tiède, la main chaude trouvera cette eau plus froide et la main froide trouvera cette eau plus chaude. En vente, il faut présenter en premier les articles les plus chers, ainsi, les articles les moins chers paraissent moins chers même s’ils sont à un prix élevé. « Je vous suggère quand vous rentrez chez vous ce soir, de lever les yeux vers le ciel pour contempler l’immensité de l’univers. Vous percevrez alors l’insignifiance de nos pertes du deuxième trimestre. » :-)
 
 Parce que
 =========
@@ -45,7 +151,7 @@ Quand on reçoit quelque chose de quelqu’un, on se sent redevable. La règle e
 Engagement et cohérence
 =======================
 
-Il s’agit tout simplement de notre désir quasi obsessionnel d’être et de paraître cohérent dans notre comportement. Dès que nous avons pris position ou opté pour une certaine attitude ou pris un engagement, nous nous trouvons soumis à des pressions intérieures et extérieures qui nous obligent à agir dans la ligne de notre position première : nous réagissons de façon à justifier nos décisions antérieures (même si elles se révèlent, erronées). Cet effet est d’autant plus fort en cas de prise de position publique.
+Il s’agit tout simplement de notre désir quasi obsessionnel d’être et de paraître cohérent dans notre comportement. Dès que nous avons pris position ou opté pour une certaine attitude ou pris un engagement, nous nous trouvons soumis à des pressions intérieures et extérieures qui nous obligent à agir dans la ligne de notre position première : nous réagissons de façon à justifier nos décisions antérieures (même si elles se révèlent erronées). Cet effet est d’autant plus fort en cas de prise de position publique.
 
 La preuve sociale
 =================
@@ -96,7 +202,7 @@ La tendance à ignorer complètement les probabilités pour prendre une décisio
 La perception sélective
 =======================
 
-La perception sélective est la tendance à interpréter de manière sélective ce que l’on observe ou entend, en fonction de notre propre expérience, de nos centres d’intérêt, de notre situation sociale, de nos valeurs.
+La perception sélective est la tendance à interpréter de manière sélective ce que l’on observe ou entend, en fonction de notre propre expérience, de nos centres d’intérêts, de notre situation sociale, de nos valeurs.
 
 **Exemple** : Un supporter d’une équipe de football voit plus facilement les fautes de l’équipe adverse que celles de l’équipe qu’il soutient.
 
@@ -125,7 +231,7 @@ Lorsque nos croyances sur le monde entrent en contradiction avec les faits, ou q
 Le conformisme
 ==============
 
-Imaginez que vous soyez convié à un test de vision. On vous assoit dans une pièce en compagnie de 6 autres volontaires, et un expérimentateur fait son entrée pour vous expliquer la marche à suivre : l’exercice consistera à dire si des lignes présentées sur une série d’affiches sont plus petites ou plus grandes qu’une ligne de référence tracée sur un tableau. Les participants devront donner leur réponse à l’oral, chacun à leur tour. Au début, l’expérience se déroule normalement ; les réponses semblent évidentes, et tous les participants sont d’accord. Mais au bout d’un moment, alors que l’expérimentateur présente une ligne manifestement plus longue que la ligne de référence, tout le groupe la désigne comme étant plus courte. C’est à votre tour d’exprimer votre opinion : allez-vous suivre la majorité, ou dire ce que vous pensez ? Ce qu’a découvert le psychologue Solomon Asch lorsqu’il a mené cette expérience en 1951, c’est que sur une série de questions où le groupe a manifestement tort, 37% des questionnés se rallient systématiquement à la majorité, reniant leurs propres perceptions. Bien sûr, il n’y a qu’un seul véritable cobaye, les autres participants étant des complices de l’expérimentateur.  75% des sujets suivent le groupe au moins une fois, et seuls 25% ne se laissent jamais influencer. Notre tendance au conformisme s’explique par la pression sociale : nous craignons d’être rejetés par nos semblables, et si le plus grand nombre n’est pas d’accord avec nous, on se persuade qu’il a probablement raison…
+Imaginez que vous soyez convié à un test de vision. On vous assoit dans une pièce en compagnie de 6 autres volontaires, et un expérimentateur fait son entrée pour vous expliquer la marche à suivre : l’exercice consistera à dire si des lignes présentées sur une série d’affiches sont plus petites ou plus grandes qu’une ligne de référence tracée sur un tableau. Les participants devront donner leur réponse à l’oral, chacun à leur tour. Au début, l’expérience se déroule normalement ; les réponses semblent évidentes, et tous les participants sont d’accord. Mais au bout d’un moment, alors que l’expérimentateur présente une ligne manifestement plus longue que la ligne de référence, tout le groupe la désigne comme étant plus courte. C’est à votre tour d’exprimer votre opinion : allez-vous suivre la majorité, ou dire ce que vous pensez ? Ce qu’a découvert le psychologue Solomon Asch lorsqu’il a mené cette expérience en 1951, c’est que sur une série de questions où le groupe a manifestement tort, 37% des questionnés se rallient systématiquement à la majorité, reniant leurs propres perceptions. Bien sûr, il n’y a qu’un seul véritable cobaye, les autres participants étant des complices de l’expérimentateur. 75% des sujets suivent le groupe au moins une fois, et seuls 25% ne se laissent jamais influencer. Notre tendance au conformisme s’explique par la pression sociale : nous craignons d’être rejetés par nos semblables, et si le plus grand nombre n’est pas d’accord avec nous, on se persuade qu’il a probablement raison…
 
 Myopie face au plaisir
 ======================
@@ -135,7 +241,7 @@ Instinctivement, le plaisir immédiat apparaît plus attirant que le plaisir à 
 La paréidolie
 =============
 
-La paréidolie est un effet psychologique très puissant qui nous pousse à percevoir des formes précises à partir de stimuli vagues et indéterminés. Elle témoigne d’un besoin très humain qui consiste à donner du sens au chaos. Les exemples au quotidien sont nombreux : voir un visage dans les motifs d’une tapisserie ou distinguer des animaux dans les nuages sont des cas de paréidolie que nous connaissons tous. Le phénomène est particulièrement présent dans le contexte religieux : on ne compte plus les visages du Christ identifiés sur des [chips][1], [des taches d’humidité][2] ou encore des [écorces d’arbres][3]. Dans certains cas, les apparitions présumées déclenchent un engouement colossal, comme à Clearwater en Floride où plus d’un million de personnes se déplacèrent pour voir [la Vierge sur les vitres d’un bâtiment][4], ou encore à Singapour en 2007 lorsque des milliers de pèlerins crurent voir un dieu-singe sur un tronc d’arbre. Le célèbre test de Rorschach  où des patients doivent dire ce qu’ils perçoivent dans une série de taches est un exemple de paréidolie utilisée à des fins psychothérapeutiques.
+La paréidolie est un effet psychologique très puissant qui nous pousse à percevoir des formes précises à partir de stimuli vagues et indéterminés. Elle témoigne d’un besoin très humain qui consiste à donner du sens au chaos. Les exemples au quotidien sont nombreux : voir un visage dans les motifs d’une tapisserie ou distinguer des animaux dans les nuages sont des cas de paréidolie que nous connaissons tous. Le phénomène est particulièrement présent dans le contexte religieux : on ne compte plus les visages du Christ identifiés sur des [chips][1], [des taches d’humidité][2] ou encore des [écorces d’arbres][3]. Dans certains cas, les apparitions présumées déclenchent un engouement colossal, comme à Clearwater en Floride où plus d’un million de personnes se déplacèrent pour voir [la Vierge sur les vitres d’un bâtiment][4], ou encore à Singapour en 2007 lorsque des milliers de pèlerins crurent voir un dieu-singe sur un tronc d’arbre. Le célèbre test de Rorschach où des patients doivent dire ce qu’ils perçoivent dans une série de taches est un exemple de paréidolie utilisée à des fins psychothérapeutiques.
 
 Les faux souvenirs
 ==================
@@ -536,7 +642,7 @@ L’illusion de contrôle est la tendance à croire que nous avons plus de contr
 Les corrélations illusoires
 ===========================
 
-C’est toujours quand on est en retard que les feux sont rouges,  il se met toujours à pleuvoir quand on vient de laver sa voiture, et c’est toujours quand on est sous la douche que le téléphone sonne. Si vous vous retrouvez dans ce genre d’affirmations, popularisées par la célèbre loi de Murphy, c’est que vous êtes victimes des corrélations illusoires. Cette tendance à créer des relations entre des évènements qui n’en ont pas s’explique notamment par le besoin que nous avons de donner du sens à ce qui nous arrive. En réalité, les feux ne sont pas plus rouges quand on est pressé, mais nous préférons nous focaliser sur les cas qui confirment notre théorie, en oubliant les autres. C’est le « biais de confirmation ». Les corrélations illusoires sont la source de nombreuses croyances populaires : vous avez sans doute entendu dire que le nombre de suicides augmentait les nuits de pleine lune,  ou que certaines personnes sentaient leurs rhumatismes se réveiller en fonction de la météo.  Dans les deux cas, les recherches ont montré qu’il n’y avait aucun lien statistique entre ces évènements, mais les personnes qui y croient se concentrent sur les fois où leur théorie fonctionne. Les corrélations illusoires expliquent aussi la persistance de certains préjugés raciaux ou sexistes : il est plus simple de se cramponner à des stéréotypes préétablis plutôt que d’analyser chaque cas rationnellement…
+C’est toujours quand on est en retard que les feux sont rouges, il se met toujours à pleuvoir quand on vient de laver sa voiture, et c’est toujours quand on est sous la douche que le téléphone sonne. Si vous vous retrouvez dans ce genre d’affirmations, popularisées par la célèbre loi de Murphy, c’est que vous êtes victimes des corrélations illusoires. Cette tendance à créer des relations entre des évènements qui n’en ont pas s’explique notamment par le besoin que nous avons de donner du sens à ce qui nous arrive. En réalité, les feux ne sont pas plus rouges quand on est pressé, mais nous préférons nous focaliser sur les cas qui confirment notre théorie, en oubliant les autres. C’est le « biais de confirmation ». Les corrélations illusoires sont la source de nombreuses croyances populaires : vous avez sans doute entendu dire que le nombre de suicides augmentait les nuits de pleine lune, ou que certaines personnes sentaient leurs rhumatismes se réveiller en fonction de la météo. Dans les deux cas, les recherches ont montré qu’il n’y avait aucun lien statistique entre ces évènements, mais les personnes qui y croient se concentrent sur les fois où leur théorie fonctionne. Les corrélations illusoires expliquent aussi la persistance de certains préjugés raciaux ou sexistes : il est plus simple de se cramponner à des stéréotypes préétablis plutôt que d’analyser chaque cas rationnellement…
 
 <!--
 Les liens 2 et 3 sont cassés.
