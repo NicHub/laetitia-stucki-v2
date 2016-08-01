@@ -10,17 +10,17 @@ published: false
 ???
 ===
 
-Biais qui privilègie la certitude au doute
+Biais qui privilégie la certitude au doute
 
 ???
 ===
 
-Voir une logique dans le hasa
+Voir une logique dans le hasard
 
 ???
 ===
 
-Beucoup plus diffice le régrésser que d’augmenter 1500 ⇒ 2000 :-) / 2000 ⇒ 1500 :-(
+Beaucoup plus difficile de régresser que de progresser 1500 ⇒ 2000 :-) / 2000 ⇒ 1500 :-(
 
 ???
 ===
@@ -30,47 +30,47 @@ Biais de croire que dans un couple ou dans une équipe on est celui qui bosse le
 Contraste
 =========
 
-Si le deuxième objet est différent du premier, nous aurons tendance à le voir plus différent qu’il ne l’est en réalité. Si nous soulevons d’abord un objet léger, puis un objet lourd, nous trouverons le deuxième objet plus lourd que si nous n’avions pas soulevé le premier objet. Si dans une soirée nous discutons avec un homme très beau et qu’un homme qui l’est moins vient se joindre au groupe, le second nous paraîtra moins séduisant qu’il ne l’est en réalité. Si vous avez devant vous un seau d’eau froide, un sceau à température ambiante et un seau d’eau chaude et que vous mettez une main dans l’eau froide et l’autre dans l’eau chaude puis que vous plongez vos 2 mains dans l’eau tiède, la main chaude trouvera cette eau plus froide et la main froide trouvera cette eau plus chaude. En vente il faut présenté en premier les articles les plus chers ainsi les articles les moins chers paraissent moins cher même s’ils sont à un prix élevé. «  Je vous suggère quand vous rentrez chez vous ce soir, de lever les yeux vers le ciel pour contempler l’immensité de l’univers. Vous percevrez alors l’insignifiance de nos pertes du deuxième trimestre » :-)
+Si le deuxième objet est différent du premier, nous aurons tendance à le voir plus différent qu’il ne l’est en réalité. Si nous soulevons d’abord un objet léger, puis un objet lourd, nous trouverons le deuxième objet plus lourd que si nous n’avions pas soulevé le premier objet. Si dans une soirée nous discutons avec un homme très beau et qu’un homme qui l’est moins vient se joindre au groupe, le second nous paraîtra moins séduisant qu’il ne l’est en réalité. Si vous avez devant vous un seau d’eau froide, un sceau à température ambiante et un seau d’eau chaude et que vous mettez une main dans l’eau froide et l’autre dans l’eau chaude puis que vous plongez vos 2 mains dans l’eau tiède, la main chaude trouvera cette eau plus froide et la main froide trouvera cette eau plus chaude. En vente il faut présenter en premier les articles les plus chers, ainsi, les articles les moins chers paraissent moins chers même s’ils sont à un prix élevé. «  Je vous suggère quand vous rentrez chez vous ce soir, de lever les yeux vers le ciel pour contempler l’immensité de l’univers. Vous percevrez alors l’insignifiance de nos pertes du deuxième trimestre. » :-)
 
 Parce que
 =========
 
-Donner une raison même si elle n’est pas véritable. Dans une file d’attente, par exemple, vous désirez passer devant tout le monde votre taux de réussite augmentera significativement en employant la formule magique « parce que ». De même dans le domaine de la vente commencer par une explication (dans un premier temps) du « pourquoi » vous vendez tel ou tel objet ou service aura bien plus d’impacte sur l’acheteur que d’énuméré toutes les qualités de votre produit.
+Donner une raison même si elle n’est pas véritable. Dans une file d’attente, par exemple, si vous désirez passer devant tout le monde, votre taux de réussite augmentera significativement en employant la formule magique « parce que ». De même, dans le domaine de la vente, commencer par une explication (dans un premier temps) du « pourquoi » vous vendez tel ou tel objet ou service aura bien plus d’impact sur l’acheteur que d’énuméré toutes les qualités de votre produit.
 
 La réciprocité
 ==============
 
-Quand on reçoit quelque chose de quelqu’un, on se sent redevable. La règle est qu’il faut s’efforcer de payer de retour les avantages reçus d’autrui. Si quelqu’un nous rend service, nous devons lui rendre service à notre tour ; si un ami nous envoie un cadeau pour notre anniversaire, nous n’oublierons pas de faire de même pour le sien ; si nous recevons une invitation, nous devons la rendre. Par la seule vertu de la règle de réciprocité, nous voilà donc « obligés » à tout cela, cadeaux invitation, services, et le reste. Il est considéré comme normal que le fait de recevoir crée une dette ; d’où le double sens du mot « obligé » dans un grand nombre de langues.
+Quand on reçoit quelque chose de quelqu’un, on se sent redevable. La règle est qu’il faut s’efforcer de payer de retour les avantages reçus d’autrui. Si quelqu’un nous rend service, nous devons lui rendre service à notre tour ; si un ami nous envoie un cadeau pour notre anniversaire, nous n’oublierons pas de faire de même pour le sien ; si nous recevons une invitation, nous devons la rendre. Par la seule vertu de la règle de réciprocité, nous voilà donc « obligés » à tout cela, cadeaux, invitation, services, et le reste. Il est considéré comme normal que le fait de recevoir crée une dette ; d’où le double sens du mot « obligé » dans un grand nombre de langues.
 
 Engagement et cohérence
 =======================
 
-Il s’agit tout simplement de notre désir quasi obsessionnel d’être et de paraître cohérent dans notre comportement. Dès que nous avons pris position ou opté pour une certaine attitude ou pris un engagement, nous nous trouvons soumis à des pressions intérieures et extérieures qui nous obligent à agir dans la ligne de notre position première : nous réagissons de façon à justifier nos décisions antérieures (même si elles se révèlent, erronées). Cet effet est d’autant plus fort en cas de prise de position publique
+Il s’agit tout simplement de notre désir quasi obsessionnel d’être et de paraître cohérent dans notre comportement. Dès que nous avons pris position ou opté pour une certaine attitude ou pris un engagement, nous nous trouvons soumis à des pressions intérieures et extérieures qui nous obligent à agir dans la ligne de notre position première : nous réagissons de façon à justifier nos décisions antérieures (même si elles se révèlent, erronées). Cet effet est d’autant plus fort en cas de prise de position publique.
 
 La preuve sociale
 =================
 
-La tendance à croire qu’un comportement est approprié à partir du moment ou d’autres l’adoptent. En règle générale, nous faisons moins d’erreurs en agissant conformément aux indications que nous fournit le groupe social qu’en allant à leur encontre. Habituellement quand un grand nombre de gens font quelque chose, c’est que c’est la meilleure chose à faire. Si un homme est écroulé sur le sol en pleine ville sans personne autour pour le secourir, tout le monde passe tout droit sans le regarder si une personne s’arrête, d’autres s’arrêteront plus facilement, etc.
+La tendance à croire qu’un comportement est approprié à partir du moment où d’autres l’adoptent. En règle générale, nous faisons moins d’erreurs en agissant conformément aux indications que nous fournit le groupe social qu’en allant à leur encontre. Habituellement quand un grand nombre de gens font quelque chose, c’est que c’est la meilleure chose à faire. Si un homme est écroulé sur le sol en pleine ville sans personne autour pour le secourir, tout le monde passe tout droit sans le regarder si une personne s’arrête, d’autres s’arrêteront plus facilement, etc.
 
 La sympathie
 ============
 
-On ne surprendra personne en disant qu’en règle générale nous accédons plus volontiers aux requêtes de personnes qui nous sont connues et sympathiques. Les réunions tupperware utilise ce procédé. Une personne invite ses amis, les amis achètent + pour faire plaisir à l’amie qui les accueille, car elle touche un pourcentage sur chacune des ventes.
+On ne surprendra personne en disant qu’en règle générale nous accédons plus volontiers aux requêtes de personnes qui nous sont connues et sympathiques. Les réunions Tupperware utilisent ce procédé. Une personne invite ses amis, les amis achètent + pour faire plaisir à l’amie qui les accueille, car elle touche un pourcentage sur chacune des ventes.
 
 L’autorité
 ==========
 
-Nous sommes conditionnés depuis bien longtemps à obéir quasiment aveuglément à une autorité. Pour preuve la célèbre expérience : un médecin en blouse blanche pose des question à cobaye 2 et demande à cobaye 1 d’ électrocuter cobaye 2 a chaque mauvaise réponse. À chaque fois la décharge est plus forte jusqu’à devenir dangereuse pour la vie de cobaye 2. Mais tant que le médecin demande à cobaye 1 de continuer d’électrocuter cobaye 2, il continue. L’expérience a été menée avec plusieurs cobayes et les électrocutions sont parfois allées jusqu’à la mort (fictive) de cobaye 2. La même expérience a été faite à la différence que la personne qui pose les questions n’avait pas un aspect d’autorité et les cobayes 1 ont cessé beaucoup plus rapidement les électrocutions en désobéissant à la personne qui posait les questions.
+Nous sommes conditionnés depuis bien longtemps à obéir quasiment aveuglément à une autorité. Pour preuve la célèbre expérience : un médecin en blouse blanche pose des questions à cobaye 2 et demande à cobaye 1 d’électrocuter cobaye 2 à chaque mauvaise réponse. À chaque fois la décharge est plus forte jusqu’à devenir dangereuse pour la vie de cobaye 2. Mais tant que le médecin demande à cobaye 1 de continuer d’électrocuter cobaye 2, il continue. L’expérience a été menée avec plusieurs cobayes et les électrocutions sont parfois allées jusqu’à la mort (fictive) de cobaye 2. La même expérience a été faite à la différence que la personne qui pose les questions n’avait pas un aspect d’autorité et les cobayes 1 ont cessé beaucoup plus rapidement les électrocutions en désobéissant à la personne qui posait les questions.
 
 La rareté
 =========
 
-« Pour aimer, il faut comprendre que l’on pourrait perdre l’objet de son amour » - G.K. hesterton . La rareté est souvent associée à quelque chose de précieux, de bonnes qualités, à saisir rapidement (maintenant ou jamais). La censure rend rare et du coup désirable... Par exemple notre société censure la sexualité, du coup ça aiguise notre curiosité et l’envie d’expérimenter ou de s’approprier...
+« Pour aimer, il faut comprendre que l’on pourrait perdre l’objet de son amour » - G. K. Hesterton. La rareté est souvent associée à quelque chose de précieux, de bonnes qualités, à saisir rapidement (maintenant ou jamais). La censure rend rare et du coup désirable... Par exemple notre société censure la sexualité, du coup ça aiguise notre curiosité et l’envie d’expérimenter ou de s’approprier...
 
 Disponibilité cascade
 =====================
 
-Processus d’auto-renforcement dans lequel une croyance collective devient de plus en plus plausible par sa répétition croissante dans le discours public.
+Processus d’autorenforcement dans lequel une croyance collective devient de plus en plus plausible par sa répétition croissante dans le discours public.
 
 L’aversion aux pertes
 =====================
@@ -79,7 +79,7 @@ La difficulté à abandonner un objet est plus grande que la difficulté associ�
 
 **Exemple** : C’est facilement visible chez les joueurs de casino. Beaucoup ne pourront tout simplement pas abandonner leurs pertes et continueront à jouer malgré tout.
 
-Pour ce résoudre à perdre « 1 » il faut y gagner « 2 »...
+Pour se résoudre à perdre « 1 » il faut y gagner « 2 »...
 
 L’aversion à la dépossession ou effet de dotation
 =================================================
@@ -132,15 +132,15 @@ Myopie face au plaisir
 
 Instinctivement, le plaisir immédiat apparaît plus attirant que le plaisir à long terme.
 
-La pareidolie
+La paréidolie
 =============
 
-La pareidolie est un effet psychologique très puissant qui nous pousse à percevoir des formes précises à partir de stimuli vagues et indéterminés. Elle témoigne d’un besoin très humain qui consiste à donner du sens au chaos. Les exemples au quotidien sont nombreux : voir un visage dans les motifs d’une tapisserie ou distinguer des animaux dans les nuages sont des cas de pareidolie que nous connaissons tous. Le phénomène est particulièrement présent dans le contexte religieux : on ne compte plus les visages du Christ identifiés sur des [chips](http://alexdesilesie.oldiblog.com/sites/images/articles/771/article_771511.jpg), [des taches d’humidité](http://bitsandpieces.us/wp-content/uploads/2008/10/imagesje3sus-20stain.jpg) ou encore des [écorces d’arbres](http://static.atlasobscura.com/files/place_images/Jesus%20Tree.JPG). Dans certains cas, les apparitions présumées déclenchent un engouement colossal, comme à Clearwater en Floride où plus d‘un million de personnes se déplacèrent pour voir [la Vierge sur les vitres d’un bâtiment](http://1.bp.blogspot.com/_135gLLKGo-M/SrJnQjcWvRI/AAAAAAAAAIM/6v2ozisFbwI/s320/ClearwaterVirginMary.jpg), ou encore à Singapour en 2007 lorsque des milliers de pèlerins crurent voir un dieu-singe sur un tronc d’arbre. Le célèbre test de Rorschach  où des patients doivent dire ce qu’ils perçoivent dans une série de taches est un exemple de pareidolie utilisée à des fins psychothérapeutiques.
+La paréidolie est un effet psychologique très puissant qui nous pousse à percevoir des formes précises à partir de stimuli vagues et indéterminés. Elle témoigne d’un besoin très humain qui consiste à donner du sens au chaos. Les exemples au quotidien sont nombreux : voir un visage dans les motifs d’une tapisserie ou distinguer des animaux dans les nuages sont des cas de paréidolie que nous connaissons tous. Le phénomène est particulièrement présent dans le contexte religieux : on ne compte plus les visages du Christ identifiés sur des [chips](http://alexdesilesie.oldiblog.com/sites/images/articles/771/article_771511.jpg), [des taches d’humidité](http://bitsandpieces.us/wp-content/uploads/2008/10/imagesje3sus-20stain.jpg) ou encore des [écorces d’arbres](http://static.atlasobscura.com/files/place_images/Jesus%20Tree.JPG). Dans certains cas, les apparitions présumées déclenchent un engouement colossal, comme à Clearwater en Floride où plus d‘un million de personnes se déplacèrent pour voir [la Vierge sur les vitres d’un bâtiment](http://1.bp.blogspot.com/_135gLLKGo-M/SrJnQjcWvRI/AAAAAAAAAIM/6v2ozisFbwI/s320/ClearwaterVirginMary.jpg), ou encore à Singapour en 2007 lorsque des milliers de pèlerins crurent voir un dieu-singe sur un tronc d’arbre. Le célèbre test de Rorschach  où des patients doivent dire ce qu’ils perçoivent dans une série de taches est un exemple de paréidolie utilisée à des fins psychothérapeutiques.
 
 Les faux souvenirs
 ==================
 
-En 2003, le Dr Elizabeth Loftus confronta des étudiants qui avaient tous visité Disneyland dans leur enfance à un prospectus vantant les mérites du célèbre parc d’attractions. On pouvait y voir Bugs Bunny serrant la main d’un enfant. Quand on leur demanda d’évoquer leurs souvenirs du parc, 35% des étudiants se rappelèrent de leur rencontre avec Bugs Bunny, allant parfois jusqu’à préciser qu’il tenait une énorme carotte. Évidemment, Bugs Bunny étant un personnage de la Warner, il n’a jamais foulé le sol de Disneyland. La publicité était fausse, tout comme les souvenirs des participants. Cette expérience fait partie des nombreuses recherches qui mettent en avant le syndrome des faux souvenirs, cette tendance que nous avons à nous rappeler de choses que nous n’avons pas vécues. Si les conséquences de ce phénomène semblent anodines dans l’exemple mentionné, elles peuvent être bien plus graves lorsqu’elles s’appliquent à des témoignages de crimes, ou encore dans le cadre de la psychothérapie : certains praticiens peuvent influencer les patients à se souvenir de traumatismes imaginaires, qui permettent ensuite d’expliquer leurs troubles. Dans d’autres cas, des souvenirs réellement vécus peuvent être altérés, voire transformés par l’environnement socio-culturel, ou par l’influence de personnes persuasives.
+En 2003, le Dr Elizabeth Loftus confronta des étudiants qui avaient tous visité Disneyland dans leur enfance à un prospectus vantant les mérites du célèbre parc d’attractions. On pouvait y voir Bugs Bunny serrant la main d’un enfant. Quand on leur demanda d’évoquer leurs souvenirs du parc, 35% des étudiants se rappelèrent leur rencontre avec Bugs Bunny, allant parfois jusqu’à préciser qu’il tenait une énorme carotte. Évidemment, Bugs Bunny étant un personnage de la Warner, il n’a jamais foulé le sol de Disneyland. La publicité était fausse, tout comme les souvenirs des participants. Cette expérience fait partie des nombreuses recherches qui mettent en avant le syndrome des faux souvenirs, cette tendance que nous avons à nous rappeler de choses que nous n’avons pas vécues. Si les conséquences de ce phénomène semblent anodines dans l’exemple mentionné, elles peuvent être bien plus graves lorsqu’elles s’appliquent à des témoignages de crimes, ou encore dans le cadre de la psychothérapie : certains praticiens peuvent influencer les patients à se souvenir de traumatismes imaginaires, qui permettent ensuite d’expliquer leurs troubles. Dans d’autres cas, des souvenirs réellement vécus peuvent être altérés, voire transformés par l’environnement socioculturel, ou par l’influence de personnes persuasives.
 
 La cécité d’inattention
 =======================
@@ -155,12 +155,12 @@ Face aux malheurs d’autrui, nous préférons parfois penser que rien n’arriv
 Les prophéties autoréalisatrices
 ================================
 
-Imaginons que vous soupçonniez votre nouveau collègue de bureau d’être acariâtre et renfermé sur lui-même. Vous évitez alors de lui parler, lui disant à peine bonjour. En retour, votre collègue va se sentir indésirable et préférera rester à l’écart. Vous interprétez son attitude comme une confirmation de vos soupçons, sans réaliser que vous en êtes la cause. Lorsqu’une prédiction influence ainsi directement la réalisation de ce qu’elle prédit, on parle de prophétie auto-réalisatrice. On retrouve les effets pervers de ce phénomène dans de nombreux domaines, comme celui de la course aux armements : un pays redoute que son voisin prépare une attaque, et décide d’augmenter le nombre de ses missiles. En conséquence, le pays soupçonné va traduire cette attitude comme une menace, et va lui aussi accroître son armement. Les deux protagonistes vont ainsi alimenter un cycle d’hostilité ou chacun verra ses doutes confirmés par la réaction de l’autre. Les prophéties autoréalisatrices font partie des phénomènes qui, avec entre autres l’[effet Forer](http://www.axolot.info/?p=540), permettent d’expliquer l’efficacité apparente de l’astrologie ou de la voyance. Si vous lisez dans votre horoscope que la journée se passera mal, vous vous focaliserez probablement sur les événements négatifs, vous serez de mauvaise humeur, et la prédiction sera directement responsable de ce qu’elle annonçait. De la même façon, si une voyante vous prédit que vous rencontrerez l’âme sœur dans un délai de 3 semaines, vous aurez probablement une attitude beaucoup plus chaleureuse et engageante que d’habitude, facilitant par conséquent la réalisation de la prophétie. Le psychologue Richard Wiseman avance que le phénomène peut faire office d’effet placebo lorsqu’on se l’applique à soi-même : une personne qui est persuadée d’avoir de la chance saisira davantage d’opportunités et participera à plus de concours, augmentant ainsi nécessairement ses chances de réussite.
+Imaginons que vous soupçonniez votre nouveau collègue de bureau d’être acariâtre et renfermé sur lui-même. Vous évitez alors de lui parler, lui disant à peine bonjour. En retour, votre collègue va se sentir indésirable et préférera rester à l’écart. Vous interprétez son attitude comme une confirmation de vos soupçons, sans réaliser que vous en êtes la cause. Lorsqu’une prédiction influence ainsi directement la réalisation de ce qu’elle prédit, on parle de prophétie autoréalisatrice. On retrouve les effets pervers de ce phénomène dans de nombreux domaines, comme celui de la course aux armements : un pays redoute que son voisin prépare une attaque, et décide d’augmenter le nombre de ses missiles. En conséquence, le pays soupçonné va traduire cette attitude comme une menace, et va lui aussi accroître son armement. Les deux protagonistes vont ainsi alimenter un cycle d’hostilité ou chacun verra ses doutes confirmés par la réaction de l’autre. Les prophéties autoréalisatrices font partie des phénomènes qui, avec entre autres l’[effet Forer](http://www.axolot.info/?p=540), permettent d’expliquer l’efficacité apparente de l’astrologie ou de la voyance. Si vous lisez dans votre horoscope que la journée se passera mal, vous vous focaliserez probablement sur les évènements négatifs, vous serez de mauvaise humeur, et la prédiction sera directement responsable de ce qu’elle annonçait. De la même façon, si une voyante vous prédit que vous rencontrerez l’âme sœur dans un délai de 3 semaines, vous aurez probablement une attitude beaucoup plus chaleureuse et engageante que d’habitude, facilitant par conséquent la réalisation de la prophétie. Le psychologue Richard Wiseman avance que le phénomène peut faire office d’effet placebo lorsqu’on se l’applique à soi-même : une personne qui est persuadée d’avoir de la chance saisira davantage d’opportunités et participera à plus de concours, augmentant ainsi nécessairement ses chances de réussite.
 
 La connaissance rétrospective
 =============================
 
-Combien de fois avez-vous entendu des gens prétendre qu’ils connaissaient la bonne réponse après qu’elle ait été donnée ? « Je le savais déjà », « j’étais sûr que ça se passerait comme ça », « je savais qu’il serait élu », « la crise était prévisible », autant de déclarations auxquelles nous sommes confrontés quotidiennement. Vous-même, en lisant cet article, vous vous êtes peut-être dit que vous connaissiez déjà tous les phénomènes mentionnés. Si c’est le cas, vous pourriez être victime du biais de connaissance rétrospective. Cette illusion psychologique, liée à l’organisation de la mémoire, nous donne l’impression que nous savions depuis longtemps une information que nous venons d’apprendre. Dans une expérience qu’il mena en 1975, le psychologue Baruch Fishhoff fit lire à plusieurs groupes d’étudiants un article concernant la guerre qui opposa les Anglais aux Gurkas du Népal en 1814. Il raconta ensuite à chacun des groupes comment s’était terminée la guerre, en donnant à chaque fois une fin différente. Il demanda ensuite aux participants s’ils auraient pu deviner l’issue de cette guerre avant qu’elle ne leur soit révélée. Tous les étudiants affirmèrent qu’ils en auraient été capables, aussi bien ceux qui avaient été trompés que les autres. La connaissance rétrospective explique pourquoi les événements semblent si prévisibles à certains analystes une fois qu’ils sont arrivés, qu’il s’agisse d’économie, de politique ou de société…
+Combien de fois avez-vous entendu des gens prétendre qu’ils connaissaient la bonne réponse après qu’elle a été donnée ? « Je le savais déjà », « j’étais sûr que ça se passerait comme ça », « je savais qu’il serait élu », « la crise était prévisible », autant de déclarations auxquelles nous sommes confrontés quotidiennement. Vous-même, en lisant cet article, vous vous êtes peut-être dit que vous connaissiez déjà tous les phénomènes mentionnés. Si c’est le cas, vous pourriez être victime du biais de connaissance rétrospective. Cette illusion psychologique, liée à l’organisation de la mémoire, nous donne l’impression que nous savions depuis longtemps une information que nous venons d’apprendre. Dans une expérience qu’il mena en 1975, le psychologue Baruch Fishhoff fit lire à plusieurs groupes d’étudiants un article concernant la guerre qui opposa les Anglais aux Gurkas du Népal en 1814. Il raconta ensuite à chacun des groupes comment s’était terminée la guerre, en donnant chaque fois une fin différente. Il demanda ensuite aux participants s’ils auraient pu deviner l’issue de cette guerre avant qu’elle ne leur soit révélée. Tous les étudiants affirmèrent qu’ils en auraient été capables, aussi bien ceux qui avaient été trompés que les autres. La connaissance rétrospective explique pourquoi les évènements semblent si prévisibles à certains analystes une fois qu’ils sont arrivés, qu’il s’agisse d’économie, de politique ou de société…
 
 Prédominance des émotions
 =========================
@@ -193,7 +193,7 @@ C’est la tendance à avoir nos perceptions influencées par nos propres centre
 Le biais d’attribution de cause
 ===============================
 
-Quand on observe des évènements, on a tendance à les reliers par un lien de cause à effet. C’est un fonctionnement automatique de notre cerveau, qui produit de nombreuses erreurs d’interprétations.
+Quand on observe des évènements, on a tendance à les relier par un lien de cause à effet. C’est un fonctionnement automatique de notre cerveau, qui produit de nombreuses erreurs d’interprétations.
 
 Le biais de cadrage
 ===================
@@ -221,7 +221,7 @@ Nous cherchons toujours à confirmer les hypothèses exprimées, qui sont a prio
 Biais de conformité
 ===================
 
-On a tendance à n’observer que ce qui est conforme à nos attentes. Se créent alors des automatismes, des croyances qui déterminent notre perception du « réel »
+On a tendance à n’observer que ce qui est conforme à nos attentes. Se créent alors des automatismes, des croyances qui déterminent notre perception du « réel ».
 
 Le biais de conjonction
 =======================
@@ -240,13 +240,13 @@ Tendance à surévaluer une information qui confirme sa propre opinion et minimi
 Le biais de croyance
 ====================
 
-Le biais de croyance consiste en la formation d’hypothèses et la prise de décisions en fonction de ce que l’on désire et que l’on se plaît à imaginer au lieu de prendre en compte l’évidence, la rationalité et la réalité.
+Le biais de croyance consiste en la formation d’hypothèses et la prise de décisions en fonction de ce que l’on désire et que l’on se plait à imaginer au lieu de prendre en compte l’évidence, la rationalité et la réalité.
 
 **Exemple** : La personne jalouse émet l’hypothèse que son conjoint la trompe. S’il offre des fleurs, ou un cadeau, cela est perçu comme un indice de culpabilité. S’il n’en offre pas, c’est perçu comme un indice de désintérêt.
 
 Le biais de croyance se produit quand le jugement sur la logique d’un argument est biaisé par la croyance en la vérité ou la fausseté de la conclusion. Ainsi, des erreurs de logique seront ignorées si la conclusion correspond aux croyances.
 
-(Maintenir certaines croyances peut représenter une motivation très forte : lorsque des croyances sont menacées, le recour à des arguments non vérifiables augmente ; la désinformation, par exemple, mise sur la puissance des croyances : Pourquoi la désinformation fonctionne?)
+(Maintenir certaines croyances peut représenter une motivation très forte : lorsque des croyances sont menacées, le recours à des arguments non vérifiables augmente ; la désinformation, par exemple, mise sur la puissance des croyances : Pourquoi la désinformation fonctionne?)
 
 Le biais de disponibilité
 =========================
@@ -295,7 +295,7 @@ Le biais de négativité
 
 Le [biais de négativité](http://www.psychomedia.qc.ca/bonheur/2012-12-27/partager-experiences-positives) est la tendance à donner plus de poids aux expériences négatives qu’aux expériences positives et à s’en souvenir davantage.
 
-Le biais de négativité est le phénomène qui fait que les individus sont d’avantage marqués par les expériences négatives que par les positives, qu’ils prennent davantage en compte les informations négatives que les positives.
+Le biais de négativité est le phénomène qui fait que les individus sont d’avantages marqués par les expériences négatives que par les positives, qu’ils prennent davantage en compte les informations négatives que les positives.
 
 **Exemple** : Être arrêtés trois fois de suite par un feu rouge au même carrefour nous fera dire que l’on a la poisse à ce feu rouge et que l’on y est toujours stoppé.
 
@@ -304,9 +304,9 @@ Le biais de réactance
 
 Il s’agit du désir de faire le contraire de ce que quelqu’un veut que nous fassions afin de prouver notre liberté de choix.
 
-**Exemple** : Une étude a révélé que lorsque des personnes étaient confrontées à une pancarte disant « Ne pas écrire sur ce mur quelque soit les circonstances », elles étaient plus susceptibles de détériorer le mur que lorsque la pancarte indiquait « Ne pas écrire sur ce mur s’il vous plaît ». Cette réaction est due en partie au fait que le premier signe était perçu comme une plus grande menace à leur liberté.
+**Exemple** : Une étude a révélé que lorsque des personnes étaient confrontées à une pancarte disant « Ne pas écrire sur ce mur quelles que soient les circonstances », elles étaient plus susceptibles de détériorer le mur que lorsque la pancarte indiquait « Ne pas écrire sur ce mur s’il vous plait ». Cette réaction est due en partie au fait que le premier signe était perçu comme une plus grande menace à leur liberté.
 
-Le biais Zero-risque
+Le biais “zéro risque”
 ====================
 
 Tendance à préférer réduire un petit risque à zéro qu’une plus grande réduction de risque pour un plus grand risque.
@@ -328,7 +328,7 @@ Le biais de confirmation est la tendance, très commune, à ne rechercher et ne 
 Le biais rétrospectif
 =====================
 
-Le biais rétrospectif est la tendance à surestimer, une fois un événement survenu, comment on le jugeait prévisible ou probable.
+Le biais rétrospectif est la tendance à surestimer, une fois un évènement survenu, comment le jugeait-on prévisible ou probable au préalable.
 
 Le biais de représentativité
 ============================
@@ -338,7 +338,7 @@ Le biais de représentativité est un raccourci mental qui consiste à porter un
 Le biais de la disponibilité en mémoire
 =======================================
 
-Le biais de la disponibilité en mémoire consiste à porter un jugement sur une probabilité selon la facilité avec laquelle des exemples viennent à l’esprit. Ce biais peut, par exemple, amener à prendre pour fréquent un événement récent.
+Le biais de la disponibilité en mémoire consiste à porter un jugement sur une probabilité selon la facilité avec laquelle des exemples viennent à l’esprit. Ce biais peut, par exemple, amener à prendre pour fréquent un évènement récent.
 
 Le biais de statu quo
 =====================
@@ -366,10 +366,10 @@ Le biais de conformisme
 
 Le biais de conformisme est la tendance à penser et agir comme les autres le font.
 
-Le biais d’auto-complaisance
+Le biais d’autocomplaisance
 ============================
 
-Le biais d’auto-complaisance est la tendance à s’attribuer le mérite de ses réussites et à attribuer ses échecs à des facteurs extérieurs défavorables.
+Le biais d’autocomplaisance est la tendance à s’attribuer le mérite de ses réussites et à attribuer ses échecs à des facteurs extérieurs défavorables.
 
 Le biais de saillance
 =====================
@@ -379,7 +379,7 @@ Ce qui est marquant émotionnellement capte davantage notre attention. Après un
 L’effet Barnum ou Forer
 =======================
 
-Le biais de l’effet Barnum consiste à accepter une vague description de la personnalité comme si appliquant spécifiquement à soi-même.
+Le biais de l’effet Barnum consiste à accepter une vague description de la personnalité comme s’appliquant spécifiquement à soi-même.
 
 **Exemple** : Les horoscopes jouent sur ce phénomène.
 
@@ -388,10 +388,10 @@ L’effet Barnum
 
 Le biais de l’effet Barnum (ou effet Forer) consiste à accepter une vague description de la personnalité comme s’appliquant spécifiquement à soi-même. Les horoscopes jouent sur ce phénomène.
 
-Également connu sous le nom d’effet « Barnum », célèbre homme de cirque Américain qui disait qu’à chaque minute naît un gogo, l’effet Forer désigne l’impression qu’une description vague s’applique spécifiquement à notre personnalité. Ce phénomène fut découvert en 1948 par le psychologue Bertram Forer, lorsqu’il fit passer un test de personnalité à ses étudiants. En guise de résultat, Forer rendit à chacun le même assemblage de phrases types qu’il avait recueilli dans divers horoscopes : « Vous avez besoin d’être aimé, mais pourtant vous êtes critique avec vous-même. Vous avez certains points faibles, mais vous savez généralement les compenser. Vous pouvez être bavard et sociable, mais à certains moments vous êtes plutôt réservé… ». Quand Forer demanda à ses étudiants d’évaluer l’exactitude des analyses qu’ils avaient reçues sur une échelle de 1 à 5, la moyenne des notes fut de 4,26 ! La puissance de l’effet, jamais démentie, s’explique notamment par la tendance que nous avons à écarter les descriptions inexactes pour nous concentrer sur celles qui nous conviennent. Sans l’effet Forer, l’astrologie, la voyance, la numérologie et la plupart des pseudo-sciences n’auraient sans doute pas le même succès…
+Également connu sous le nom d’effet « Barnum », célèbre homme de cirque américain qui disait que chaque minute naît un gogo, l’effet Forer désigne l’impression qu’une description vague s’applique spécifiquement à notre personnalité. Ce phénomène fut découvert en 1948 par le psychologue Bertram Forer, lorsqu’il fit passer un test de personnalité à ses étudiants. En guise de résultat, Forer rendit à chacun le même assemblage de phrases types qu’il avait recueilli dans divers horoscopes : « Vous avez besoin d’être aimé, mais pourtant vous êtes critique avec vous-même. Vous avez certains points faibles, mais vous savez généralement les compenser. Vous pouvez être bavard et sociable, mais à certains moments vous êtes plutôt réservé… » Quand Forer demanda à ses étudiants d’évaluer l’exactitude des analyses qu’ils avaient reçues sur une échelle de 1 à 5, la moyenne des notes fut de 4,26 ! La puissance de l’effet, jamais démentie, s’explique notamment par la tendance que nous avons à écarter les descriptions inexactes pour nous concentrer sur celles qui nous conviennent. Sans l’effet Forer, l’astrologie, la voyance, la numérologie et la plupart des pseudosciences n’auraient sans doute pas le même succès…
 
-L’effet Cheerleader
-===================
+L’effet *Cheerleader*
+=====================
 
 Tendance à paraître plus attrayant dans un groupe que vu individuellement.
 
@@ -502,7 +502,7 @@ Le héros semble tomber d’une montagne, mais l’épisode se termine avant que
 L’effet de simple exposition
 ============================
 
-L’effet de simple exposition est une augmentation de la probabilité d’un sentiment positif envers quelqu’un ou quelque chose par la simple exposition répétée à cette personne ou cet objet. Ce biais cognitif peut intervenir notamment dans la réponse à la publicité. Il vous est peut être déjà arrivé d’entendre une musique pour la première fois et de vous dire qu’elle ne vous plait pas. Et vous l’entendez plusieur fois elle fini par vous plaire.
+L’effet de simple exposition est une augmentation de la probabilité d’un sentiment positif envers quelqu’un ou quelque chose par la simple exposition répétée à cette personne ou cet objet. Ce biais cognitif peut intervenir notamment dans la réponse à la publicité. Il vous est peut-être déjà arrivé d’entendre une musique pour la première fois et de vous dire qu’elle ne vous plait pas. Et vous l’entendez plusieurs fois, elle finit par vous plaire.
 
 L’illusion des séries
 =====================
@@ -521,7 +521,7 @@ L’illusion de contrôle est une situation dans laquelle une personne est persu
 L’illusion de corrélation
 =========================
 
-L’illusion de corrélation consiste à percevoir une relation entre deux événements non reliés ou encore à exagérer une relation qui est faible en réalité. Par exemple, l’association d’une caractéristique particulière chez une personne au fait qu’elle appartienne à un groupe particulier alors que la caractéristique n’a rien à voir avec le fait qu’elle appartienne à ce groupe.
+L’illusion de corrélation consiste à percevoir une relation entre deux évènements non reliés ou encore à exagérer une relation qui est faible en réalité. Par exemple, l’association d’une caractéristique particulière chez une personne au fait qu’elle appartienne à un groupe particulier alors que la caractéristique n’a rien à voir avec le fait qu’elle appartienne à ce groupe.
 
 L’illusion de savoir
 ====================
@@ -531,9 +531,9 @@ L’illusion de savoir consiste à se fier à des croyances erronées pour appr�
 L’illusion de contrôle
 ======================
 
-L’illusion de contrôle est la tendance à croire que nous avons plus de contrôle sur une situation que nous n’en avons réellement. Un exemple extrême est celui du recours aux objets porte-chance.
+L’illusion de contrôle est la tendance à croire que nous avons plus de contrôle sur une situation que nous en avons réellement. Un exemple extrême est celui du recours aux objets porte-chance.
 
 Les corrélations illusoires
 ===========================
 
-C’est toujours quand on est en retard que les feux sont rouges,  il se met toujours à pleuvoir quand on vient de laver sa voiture, et c’est toujours quand on est sous la douche que le téléphone sonne. Si vous vous retrouvez dans ce genre d’affirmations, popularisées par la célèbre loi de Murphy, c’est que vous êtes victimes des corrélations illusoires. Cette tendance à créer des relations entre des événements qui n’en ont pas s’explique notamment par le besoin que nous avons de donner du sens à ce qui nous arrive. En réalité, les feux ne sont pas plus rouges quand on est pressé, mais nous préférons nous focaliser sur les cas qui confirment notre théorie, en oubliant les autres. C’est le « biais de confirmation ». Les corrélations illusoires sont la source de nombreuses croyances populaires : vous avez sans doute entendu dire que le nombre de suicides augmentait les nuits de pleine lune,  ou que certaines personnes sentaient leurs rhumatismes se réveiller en fonction de la météo.  Dans les deux cas, les recherches ont montré qu’il n’y avait aucun lien statistique entre ces événements, mais les personnes qui y croient se concentrent sur les fois où leur théorie fonctionne. Les corrélations illusoires expliquent aussi la persistance de certains préjugés raciaux ou sexistes : il est plus simple de se cramponner à des stéréotypes préétablis plutôt que d’analyser chaque cas rationnellement…
+C’est toujours quand on est en retard que les feux sont rouges,  il se met toujours à pleuvoir quand on vient de laver sa voiture, et c’est toujours quand on est sous la douche que le téléphone sonne. Si vous vous retrouvez dans ce genre d’affirmations, popularisées par la célèbre loi de Murphy, c’est que vous êtes victimes des corrélations illusoires. Cette tendance à créer des relations entre des évènements qui n’en ont pas s’explique notamment par le besoin que nous avons de donner du sens à ce qui nous arrive. En réalité, les feux ne sont pas plus rouges quand on est pressé, mais nous préférons nous focaliser sur les cas qui confirment notre théorie, en oubliant les autres. C’est le « biais de confirmation ». Les corrélations illusoires sont la source de nombreuses croyances populaires : vous avez sans doute entendu dire que le nombre de suicides augmentait les nuits de pleine lune,  ou que certaines personnes sentaient leurs rhumatismes se réveiller en fonction de la météo.  Dans les deux cas, les recherches ont montré qu’il n’y avait aucun lien statistique entre ces évènements, mais les personnes qui y croient se concentrent sur les fois où leur théorie fonctionne. Les corrélations illusoires expliquent aussi la persistance de certains préjugés raciaux ou sexistes : il est plus simple de se cramponner à des stéréotypes préétablis plutôt que d’analyser chaque cas rationnellement…
