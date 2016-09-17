@@ -14,6 +14,6 @@ Vous désirez :
 - Apprendre à utiliser la peur ?
 - Apprendre à transformer toute l’énergie que vous mettez à avoir peur en énergie profitable pour vous ?
 
-![...](../images/laetitia-stucki-hypnose-002.jpg)
+![Séance hypnocoaching gestion de la peur avec Lætitia Stucki](../images/laetitia-stucki-hypnose-002.jpg)
 
 Par l’autohypnose, l’utilisation et l’apprentissage de techniques hypnotiques ainsi qu’un coaching adapté et sur mesure vous pouvez acquérir les compétences nécessaires pour éliminer, transformer ou utiliser la peur de manière à avancer plus librement, réaliser et créer dans votre vie ce qui vous tient vraiment à cœur !

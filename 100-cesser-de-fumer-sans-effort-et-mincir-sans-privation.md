@@ -7,7 +7,7 @@ published: true
 
 # Cesser de fumer sans effort et mincir sans privation
 
-![...](../images/couverture-cesser-de-fumer.jpg)
+![Livre d’accompagnement pour cesser de fumer](../images/couverture-cesser-de-fumer.jpg)
 
 **Une seule séance entretenue par un coffret incluant un livre + 1 DVD**
 
@@ -25,9 +25,9 @@ La méthode proposée par Dany Dan Debeix vise à une désintoxication progressi
 
 Vous pourrez vous les procurer lors de la séance.
 
-![...](../images/couverture-mincir.jpg)
+![Livre d’accompagnement pour mincir](../images/couverture-mincir.jpg)
 
-Une seule séance entretenue par un coffret incluant un livre + 2 CD
+Une seule séance entretenue par un coffret incluant un livre + 2 CD
 
 Nous ne mangeons pas trop ou trop mal par hasard. C’est notre inconscient qui nous transmet les sensations de faim, les pulsions de manger et de boire. C’est également lui qui mémorise ce que nous avons lu, entendu, vu, goûté, senti, touché ou vécu.
 
@@ -45,11 +45,11 @@ Sans effort, ni privation, ni contrainte, vous vous débarrasserez en quelques m
 
 Vous pourrez vous les procurer lors de la séance.
 
-Ces 2 méthodes ont été créées et développées par Dany Dan Debeix
+Ces deux méthodes ont été créées et développées par Dany Dan Debeix
 
 Hypnothérapeute, Docteur en Psychologie Clinique G.B.
 
 Fondateur de l’École Centrale d’Hypnose
 
-![...](../images/logo-ech-pyramide.jpg)
+![Logo ECH — École Centrale d’Hypnose](../images/logo-ech-pyramide.jpg)
 

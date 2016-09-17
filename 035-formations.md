@@ -6,7 +6,7 @@ published: true
 ---
 
 
-# Formations et diplômes
+# Formations et diplômes
 
 {: .align-center }
 *Lætitia Stucki*
