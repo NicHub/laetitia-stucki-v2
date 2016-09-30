@@ -29,13 +29,17 @@ div.page-text {
 }
 .mise-en-evidence-1 {
 	color: brown;
+	a {
+		color: brown;
+	}
 	font-size: 120%;
 	white-space: pre-line;
 	text-align: center;
 	text-transform: uppercase;
-	margin: 0px 150px;
+	width: 300px;
+	margin: 0px auto;
 	padding: 0;
-	line-height: 20px;
+	line-height: 22px;
 }
 
 .align-left {
