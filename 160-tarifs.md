@@ -12,8 +12,6 @@ published: true
 {: .table .table-condensed .table-responsive }
 | ---                                                                | ---:         |
 | Séance d’hypnose                                                   | 120&nbsp;CHF |
-| Séance d’hypnose spécifique *mincir*, livre et CD inclus           | 280&nbsp;CHF |
-| Séance d’hypnose spécifique *cesser de fumer*, livre et DVD inclus | 260&nbsp;CHF |
 | Séance d’hypnose pour les enfants et les adolescents de 8 à 18 ans | 100&nbsp;CHF |
 
 ## Hypnocoaching

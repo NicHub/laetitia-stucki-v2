@@ -2,7 +2,7 @@
 title: Cesser de fumer sans effort et mincir sans privation
 permalink: cesser-de-fumer-sans-effort-et-mincir-sans-privation/
 layout: page
-published: true
+published: false
 ---
 
 # Cesser de fumer sans effort et mincir sans privation
