@@ -17,7 +17,7 @@ published: true
 {: .mise-en-evidence-1 }
 [**Le cours *Autohypnose, réalisez vos rêves et atteignez vos objectifs* sur 2 jours.**](/cours-de-2-jours-autohypnose/) <small class="brun"><br/>Prochaines dates<br/>les 21 et 22 mai 2016</small>
 [**Le cours *Autohypnose* de 3 heures**](/cours-de-3h-autohypnose/)<small class="brun"><br/>sur rendez-vous</small>
-[**Les ateliers d'autohypnose de 1 h 30**](/atelier-de-1h30-autohypnose/)<small class="brun"><br/>sur rendez-vous</small>
+[**Les ateliers d’autohypnose de 1 h 30**](/atelier-de-1h30-autohypnose/)<small class="brun"><br/>sur rendez-vous</small>
 
 <br/>
 
