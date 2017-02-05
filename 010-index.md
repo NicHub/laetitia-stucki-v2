@@ -7,6 +7,8 @@ published: true
 
 # Marche sur la glace
 
+Pour vous accueillir sur mon site, voici la vidéo d'un challenge que j'ai réalisé cet hiver avec l'aide de l'autohypnose et de la préparation mentale. Ceci vous donnera un petit aperçu des immenses possibilités qu'offre l'hypnose pour nous aider à avancer dans la direction que nous avons choisie. 
+
 {% include video-marche-sur-lac-de-joux.liquid %}
 
 # Des nouveautés pour&nbsp;vous !
