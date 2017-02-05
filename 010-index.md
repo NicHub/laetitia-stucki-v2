@@ -5,7 +5,11 @@ layout: page
 published: true
 ---
 
-# Des nouveautés pour vous !
+# Marche sur la glace
+
+{% include video-marche-sur-lac-de-joux.liquid %}
+
+# Des nouveautés pour&nbsp;vous !
 
 {% include ateliers.liquid %}
 

@@ -94,4 +94,25 @@ $( document ).ready( function() {
 
 
 
+  // Liste des liens des catégories sur la page de liens
+  ( function() {
+    function creeListeDeLiens() {
+      var stringCategories =
+      $( 'h2' )
+        .map(function() {
+          $( this ).addClass( 'link-target' );
+          var listString = '<a href="#' + this.id + '">' + $( this ).html() + '</a>';
+          return listString;
+        })
+        .get()
+        .join( '<br/>' );
+      $( '#categories' ).html( '<p>' + stringCategories + '</p>' );
+    }
+    if( $( '#categories' ).length > 0 ) {
+      creeListeDeLiens();
+    }
+  })();
+
+
+
 });

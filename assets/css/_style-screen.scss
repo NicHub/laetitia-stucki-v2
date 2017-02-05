@@ -159,6 +159,9 @@ body#page {
 					height: $taille-image;
 					margin: 10px auto;
 				}
+				a {
+					color: black;
+				}
 			}
 		}
 
@@ -243,6 +246,21 @@ div.fb-wrapper {
 }
 
 .link-target {
-	display: block;
-	height: 70px;
+	padding-top: 82px;
+}
+
+
+.vignette
+{
+	.panel-body
+	{
+		margin-top: 0 !important;
+		padding-top: 0;
+		p {
+			margin: 0 !important;
+		}
+		.exergue {
+			color: #777;
+		}
+	}
 }
