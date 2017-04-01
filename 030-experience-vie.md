@@ -1,5 +1,5 @@
 ---
-title: Expérience de vie
+title: Expérience de&nbsp;vie
 permalink: experience-de-vie/
 layout: page
 published: true
