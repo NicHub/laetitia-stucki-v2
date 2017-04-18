@@ -8,7 +8,7 @@
       permalink: hypnose/
     - titre: Indications
       permalink: indications/
-    
+
 
     - separator: Hypnocoaching
 
@@ -68,21 +68,21 @@
     - titre: Expériences de vie
       permalink: experience-de-vie/
 
-	  
-	  
-	  
-	  
+
+
+
+
 - titre: Vidéo
-  menu:	 
-  
-	- titre: Pieds-nus sur glaçe
-      permalink: pieds-nus-glace/	
-	  
-	  
-	  
-	  
-	  
-	  
+  menu:
+
+    - titre: Pieds-nus sur glaçe
+      permalink: pieds-nus-glace/
+
+
+
+
+
+
 - titre: Infos
   menu:
 
