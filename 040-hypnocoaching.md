@@ -1,9 +1,11 @@
 ---
 title: Hypnocoaching confiance en soi
-permalink: hypnocoaching-confiance-en-soi/
+permalink: hypnocoaching/
 layout: page
 published: true
 ---
+
+{% include ateliers.liquid %}
 
 # Hypnocoaching confiance en soi
 
