@@ -4,6 +4,22 @@ permalink: /
 layout: page
 published: true
 ---
+Pour vous accueillir sur mon site, je vous propose mes prochaines activités au Festival de la Terre de Lausanne!
+
+L’hypnose et le tambour chamanique pour une reconnexion à votre puissance de Vie et à votre vrais grand vous d'origine !... Car votre accomplissement personnel naît de votre puissance intérieure !
+
+Retrouvez-moi au festival de la Terre le samedi 10 juin pour 2 séances d'hypnose accompagnée du rythme du tambour chamanique!
+
+- Hypnose et Tambour : Reconnexion à votre "vrais grand vous d’origine" à 13h au Dôme 2 
+
+- Hypnose et Tambour : Reconnexion à votre "puissance de Vie" à 16h au Dôme 2
+
+
+![Affiche Festi terre 2017](../images/affiche-festi-terre.jpg)
+
+
+
+<!--
 
 # Marche pieds nus sur la glace
 
@@ -22,6 +38,8 @@ Pour vous accueillir sur mon site, voici la vidéo d’un challenge que j’ai r
 <i class="fa fa-mobile"></i> +41 79 326 30 64
 [Tarifs](http://laetitia-stucki.ch/tarifs/)
 
+-->
+
 {: .align-center .margin-top-50 }
 Suivez mon actualité sur
 [ma page Facebook<br/><i style="font-size:30pt;" class="fa fa-facebook-official"></i>]({{ site.data.infos.facebook.fb-url }})
@@ -32,3 +50,9 @@ Suivez mon actualité sur
 ![logo](./images/logo-laetitia-stucki-anthracite.svg){: height="90" width="90" }
 
 {% include facebook-button-box_count.liquid %}
+
+<!--
+
+Ceci est un commentaire HTML. Rien de ce qui est noté ici n’apparaîtra !!!
+
+-->
