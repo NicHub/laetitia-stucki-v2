@@ -7,6 +7,8 @@ published: true
 
 {% include ateliers.liquid %}
 
+{% include hypnocoaching.liquid %}
+
 # Hypnocoaching confiance en soi
 
 Avoir confiance en soi est essentiel pour réaliser votre vie telle que vous le souhaitez vraiment ! Que ce soit dans le domaine professionnel, sentimental, sexuel, familial ou de la communication.
