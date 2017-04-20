@@ -7,11 +7,13 @@ published: true
 
 # Évènements
 
+L’hypnose et le tambour chamanique pour une reconnexion à votre puissance de Vie et à votre vrais grand vous d'origine !... Car votre accomplissement personnel naît de votre puissance intérieure !
+
 Retrouvez-moi au festival de la Terre le samedi 10 juin pour 2 séances d'hypnose accompagnée du rythme du tambour chamanique!
 
-Hypnose et Tambour : Reconnexion à votre "vrais grand vous d’origine" à 13h au Dôme 2 
+- Hypnose et Tambour : Reconnexion à votre "vrais grand vous d’origine" à 13h au Dôme 2 
 
-Hypnose et Tambour : Reconnexion à votre "puissance de Vie" à 16h au Dôme 2
+- Hypnose et Tambour : Reconnexion à votre "puissance de Vie" à 16h au Dôme 2
 
 
 ![Affiche Festi terre 2017](../images/affiche-festi-terre.jpg)
