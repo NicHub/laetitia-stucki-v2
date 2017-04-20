@@ -4,12 +4,12 @@ permalink: hypnocoaching/
 layout: page
 published: true
 ---
-
+# Hypnocoaching
 
 
 {% include hypnocoaching.liquid %}
 
-
+Liste non exaustive
 
 ![Séance hypnocoaching confiance en soi avec Lætitia Stucki](../images/laetitia-stucki-hypnose-003.jpg)
 
