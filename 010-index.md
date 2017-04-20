@@ -4,9 +4,9 @@ permalink: /
 layout: page
 published: true
 ---
-Pour vous accueillir sur mon site, je vous propose mes prochaines activités au Festival de la Terre de Lausanne!
+### 2 ateliers gratuits hypnose et tambour chamanique au Festival de la Terre!
 
-L’hypnose et le tambour chamanique pour une reconnexion à votre puissance de Vie et à votre vrais grand vous d'origine !... Car votre accomplissement personnel naît de votre puissance intérieure !
+*L’hypnose et le tambour chamanique pour une reconnexion à votre puissance de Vie et à votre vrais grand vous d'origine !... Car votre accomplissement personnel naît de votre puissance intérieure !*
 
 Retrouvez-moi au festival de la Terre le samedi 10 juin pour 2 séances d'hypnose accompagnée du rythme du tambour chamanique!
 
