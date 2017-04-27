@@ -4,6 +4,7 @@ permalink: /
 layout: page
 published: true
 ---
+
 ### 2 ateliers gratuits hypnose et tambour chamanique au Festival de la Terre!
 
 *L’hypnose et le tambour chamanique pour une reconnexion à votre puissance de Vie et à votre vrais grand vous d'origine !... Car votre accomplissement personnel naît de votre puissance intérieure !*
