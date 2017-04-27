@@ -17,8 +17,14 @@ Retrouvez-moi au festival de la Terre le samedi 10 juin pour 2 séances d'hypnos
 
 - Hypnose et Tambour : Reconnexion à votre "puissance de Vie" à 16h au Dôme 2
 
-
+<!--
 ![Affiche Festi terre 2017](../images/affiche-festi-terre.jpg)
+-->
+
+[![Affiche Festival de la Terre 2017][1]][1]
+
+[1]: ../images/affiche-festi-terre.jpg
+
 
 
 <!--
