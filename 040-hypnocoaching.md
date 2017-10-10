@@ -12,7 +12,7 @@ published: true
 
 ![Séance hypnocoaching confiance en soi avec Lætitia Stucki](../images/laetitia-stucki-hypnose-003.jpg)
 
-
+{: .text-center }
 Liste non exhaustive
 
 <!--
