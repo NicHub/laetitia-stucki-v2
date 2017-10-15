@@ -1,6 +1,6 @@
 ---
 title: Les ateliers de 1h30
-permalink: atelier-de-1h30-autohypnose/
+permalink: atelier-autohypnose/
 layout: page
 published: true
 ---
