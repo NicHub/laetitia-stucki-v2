@@ -7,12 +7,12 @@ published: true
 
 # Les nouveautés 2018 pour&nbsp;vous !
 
-## Je vous propose des ateliers chaque mois en soirée à la Vallée de Joux et à Lausanne!
+## Chaque mois 1 atelier collectif en soirée à la Vallée de Joux et à Lausanne!
 
 - Janvier à mars 3 ateliers "Atteindre vos objectifs"
 - Avril à juin 3 ateliers "Épanouissement sexuel pour les femmes"
-- Juillet à septembre "Hypnochamanisme au rythme du tambour"
-- Octobre à décembre " Perfectionnez votre communication"
+- Juillet à septembre 3 ateliers "Hypnochamanisme au rythme du tambour"
+- Octobre à décembre 3 ateliers " Perfectionnez votre communication"
 
 *Un descriptif plus précis sera disponible très prochainement sur ce site, avec les dates, les tarifs attractifs et l'explicatif de chaque atelier. Chaque atelier sera différent y compris ceux qui se dérouleront dans les mêmes thèmes, pour mettre à votre disposition un maximum de connaissances. D'ici là vous pouvez me contacter pour de plus amples informations.*
 
