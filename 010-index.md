@@ -5,15 +5,16 @@ layout: page
 published: true
 ---
 
-# Marche pieds nus sur la glace
+# Les nouveautés 2018 pour&nbsp;vous !
 
-Pour vous accueillir sur mon site, voici la vidéo d’un challenge que j’ai réalisé l'hiver 2016-2017 avec l’aide de l’autohypnose et de la préparation mentale. Ceci vous donnera un petit aperçu des immenses possibilités qu’offre l’hypnose pour nous aider à avancer dans la direction que nous avons choisie.
+## Je vous propose des ateliers chaque mois en soirée à la Vallée de Joux et à Lausanne!
 
-{% include video-marche-sur-lac-de-joux-youtube.liquid %}
+- Janvier à mars 3 ateliers "Atteindre vos objectifs"
+- Avril à juin 3 ateliers "Épanouissement sexuel pour les femmes"
+- Juillet à septembre "Hypnochamanisme au rythme du tambour"
+- Octobre à décembre " Perfectionnez votre communication"
 
-# Des nouveautés pour&nbsp;vous !
-
-{% include ateliers.liquid %}
+*Un descriptif plus précis sera disponible très prochainement sur ce site, avec les dates, les tarifs attractifs et l'explicatif de chaque atelier. Chaque atelier sera différent y compris ceux qui se dérouleront dans les mêmes thèmes, pour mettre à votre disposition un maximum de connaissances. D'ici là vous pouvez me contacter pour de plus amples informations.*
 
 ## Inscriptions et tarifs
 
