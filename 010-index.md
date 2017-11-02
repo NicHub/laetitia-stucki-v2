@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-# Les nouveautés 2018 pour&nbsp;vous !
+# Les nouveautés 2018 pour&nbsp;vous !!!
 
 ## Chaque mois 1 atelier collectif en soirée à la Vallée de Joux et à Lausanne!
 
