@@ -14,13 +14,14 @@
 
     - titre: Hypnocoaching
       permalink: hypnocoaching/
-    - titre: Hypnocoaching amour &amp; sexualité
-      permalink: http://sacree-sexualite.org/hypnocoaching-amour-sexualite/
+    
 
     - separator: Sexualité
 
     - titre: Hypnosexologie
       permalink: http://sacree-sexualite.org/hypnosexologie/
+    - titre: Hypnocoaching amour &amp; sexualité
+      permalink: http://sacree-sexualite.org/hypnocoaching-amour-sexualite/
 
     - separator: Lithothérapie et soins énergétiques
 
@@ -43,8 +44,8 @@
       permalink: cours-de-2-jours-autohypnose/
     - titre: "Cours de 3 heures : Autohypnose"
       permalink: cours-de-3h-autohypnose/
-    - titre: "Les ateliers"
-      permalink: atelier-autohypnose/
+    - titre: "Les ateliers collectifs"
+      permalink: atelier-collectifs/
 
 
 
