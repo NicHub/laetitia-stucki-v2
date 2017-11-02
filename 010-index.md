@@ -38,7 +38,7 @@ Vallée de Joux 08.03.2018 / Lausanne 15.03.2018
 ### Épanouissement sexuel féminin 
 
 
-Ces ateliers, tous différents, et allant crescendo dans l’approche de votre épanouissement sexuel, de votre reconnexion à vous-même à votre corps et vos organes génitaux, vous apporteront les outils essentiels à l’épanouissement de votre sexualité dans la relation avec votre conjoint-e-s et avec vous-même ! Ces ateliers seront parsemés de danse, d’hypnose et d’autohypnose, du rythme du tambour, de rituels et de structures tantriques pour apporter une nouvelle dimension à votre sexualité !
+Ces ateliers, tous différents, et allant crescendo dans l’approche de votre épanouissement sexuel, vous apporteront les outils essentiels à l’épanouissement de votre sexualité dans la relation avec votre conjoint-e-s et avec vous-même ! Ces ateliers seront parsemés de danse, d’hypnose et d’autohypnose, du rythme du tambour, de rituels et de structures tantriques pour apporter une nouvelle dimension à votre sexualité !
 
 - <b>Épanouissement sexuel féminin 1</b>
 Vallée de Joux 12.04.2018 / Lausanne 19.04.2018
@@ -51,7 +51,7 @@ Vallée de Joux 14.06.2018 / Lausanne 21.06.2018
 ### Hypnochamanisme reconnexion à votre puissance vitale originelle
 
 
-Ces ateliers, tous différents et allants crescendo dans l’approche de votre puissance originelle, vous amèneront à reconnecter votre puissance de vie ! Ces ateliers seront composé de danse, d’hypnose et autohypnose, du rythme du tambour, de rituels et de structures tantriques de reconnexion à soi et à vos organes génitaux nid de votre puissance vitale. Même si ces ateliers n’ont aucune visée sexuelle, ils vous seront d’un grand soutien sexuellement ainsi que dans votre vie quotidienne.
+Ces ateliers, tous différents et allants crescendo dans l’approche de votre puissance originelle, vous amèneront à reconnecter votre puissance de vie ! Ces ateliers seront composé de danse, d’hypnose et autohypnose, du rythme du tambour, de rituels et de structures tantriques de reconnexion à votre énergie vitale. Même si ces ateliers n’ont aucune visée sexuelle, ils vous seront d’un grand soutien sexuellement ainsi que dans votre vie quotidienne.
 
 - <b>Hypnochamanisme 1</b>
 Vallée de Joux 12.07.2018 / Lausanne 19.07.2018
