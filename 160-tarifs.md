@@ -29,7 +29,8 @@ published: true
 ## Cours
 
 {: .table .table-condensed .table-responsive }
-| ---                                                                                                                                                                | Les ateliers collectifs, durée 2 h 00 environ, sur inscription                                                                                                              | 40&nbsp;CHF        |
+| --- 
+|  ---:                                                                                                                                                             | Les ateliers collectifs, durée 2 h environ, sur inscription                                                                                                              | 40&nbsp;CHF        |
 | Ateliers d’autohypnose, durée 1 h 30, sur rendez-vous                                                                                                              | 120&nbsp;CHF  |
 | Introduction à l’autohypnose, durée 3 h, sur rendez-vous                                                                                                           | 180&nbsp;CHF |
 | Cours d’autohypnose, *“Réalisez vos rêves et atteignez vos objectifs”*, durée 2 jours <small class="brun"><em>Prochaines dates, les 21 et 22 mai 2016</em></small> | 350&nbsp;CHF |
