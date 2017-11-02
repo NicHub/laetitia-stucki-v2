@@ -8,7 +8,8 @@ published: true
 # NOUVEAU
 # Les Ateliers collectifs !
 
-## <div align="justified"> Accomplissement personnel – Épanouissement sexuel féminin — Hypnochamanisme reconnexion à votre puissance vitale originelle — Communiquer avec efficacité </div>
+{: .mise-en-evidence-1 }
+Accomplissement personnel <i class="fa fa-envira" aria-hidden="true"></i> Épanouissement sexuel féminin <i class="fa fa-envira" aria-hidden="true"></i> Hypnochamanisme reconnexion à votre puissance vitale originelle <i class="fa fa-envira" aria-hidden="true"></i> Communiquer avec efficacité
 
 Tout au long de l’année 2018, je vous propose des ateliers de 19h30 à 21h30 environ 1 fois par mois à des tarifs attractifs et sur inscription à la Vallée de Joux et à Lausanne ! 
 
