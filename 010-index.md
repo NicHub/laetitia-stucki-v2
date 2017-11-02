@@ -5,16 +5,16 @@ layout: page
 published: true
 ---
 
-#NOUVEAU
-#Les Ateliers collectifs !
+# NOUVEAU
+# Les Ateliers collectifs !
 
-##Accomplissement personnel – Épanouissement sexuel féminin — Hypnochamanisme reconnexion à votre puissance vitale originelle — Communiquer avec efficacité
+## Accomplissement personnel – Épanouissement sexuel féminin — Hypnochamanisme reconnexion à votre puissance vitale originelle — Communiquer avec efficacité
 
 Tout au long de l’année 2018, je vous propose des ateliers de 19h30 à 21h30 environ 1 fois par mois à des tarifs attractifs et sur inscription à la Vallée de Joux et à Lausanne ! 
 
 Quatre thèmes répartis sur trois ateliers chacun :
 
-###<center>Accomplissement personnel !</center>
+### <center>Accomplissement personnel !</center>
 <center>Janvier à mars</center>
 
 Ces ateliers, tous différents vous apporterons les outils essentiels pour réaliser vos objectifs, augmenter votre confiance en vous et maîtriser les bases de l’autohypnose ! Il est parfois difficile d’avancer dans la direction que nous souhaitons, car des peurs ou une impression de ne pas savoir par où commencer, de ne pas être capable, ne pas avoir assez de motivation peuvent nous entraver. En apprenant des techniques d’hypnose, d’autohypnose, de PNL, de préparation mentale, de coaching, et de divers exercices, vous allez acquérir une base solide ainsi que vous créer une caisse à outils que vous pourrez utiliser dans la réalisation de ce qui vous tient vraiment à cœur.
