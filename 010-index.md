@@ -60,7 +60,6 @@ Vallée de Joux 09.08.2018 / Lausanne 16.08.2018
 - <b>Hypnochamanisme 3</b>
 Vallée de Joux 13.09.2018 / Lausanne 20.09.2018
 
-*même s’il y a la présence de structures tantriques, les ateliers d’hypnochamanisme ne sont en aucun cas dans une optique sexuelle. Ces ateliers resteront strictement orientés sur votre puissance originelle.
 
 ### Communiquer avec efficacité 
 
