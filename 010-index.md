@@ -84,7 +84,7 @@ Vallée de Joux 06.12.2018 / Lausanne 13.12.2018
 *Les lieux de rencontre vous seront communiqués lors de l’inscription
 
 
-
+![Atelier collectif avec Laetitia Stucki](../images/hypnochamanisme.JPG)
 
 
 ## Inscriptions et tarifs
