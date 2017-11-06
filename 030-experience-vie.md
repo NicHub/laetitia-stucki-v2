@@ -9,7 +9,7 @@ published: true
 # Expériences de vie
 
 {: .align-center .margin-bottom-70 }
-*Lætitia Stucki*
+###*Lætitia Stucki*
 *Hypnopraticienne et hypnosexologue*
 *Lithothérapeute*
 *Énergéticienne*
