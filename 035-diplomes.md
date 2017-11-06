@@ -10,7 +10,7 @@ published: true
 
 {: .align-center }
 *Lætitia Stucki*
-*Hypnopraticienne et hypnocoach*
+*Hypnopraticienne et hypnosexologue*
 *Lithothérapeute*
 *Énergéticienne*
 *Moon Mother*
