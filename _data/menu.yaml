@@ -40,12 +40,13 @@
 
     - separator: ""
 
-    - titre: "Cours de 2 jours : Autohypnose, “Réalisez-vos rêves et atteignez vos objectifs”"
-      permalink: cours-de-2-jours-autohypnose/
-    - titre: "Cours de 3 heures : Autohypnose"
-      permalink: cours-de-3h-autohypnose/
+    
     - titre: "Les ateliers collectifs"
       permalink: atelier-collectifs/
+    - titre: "Cours de 3 heures : Autohypnose"
+      permalink: cours-de-3h-autohypnose/
+    - titre: "Cours de 2 jours : Autohypnose, “Réalisez-vos rêves et atteignez vos objectifs”"
+      permalink: cours-de-2-jours-autohypnose/
 
 
 
