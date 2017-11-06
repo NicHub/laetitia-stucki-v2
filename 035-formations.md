@@ -1,6 +1,6 @@
 ---
 title: Formations et diplômes
-permalink: formations-et-diplomes/
+permalink: diplomes/
 layout: page
 published: true
 ---

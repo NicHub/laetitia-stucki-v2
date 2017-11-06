@@ -65,8 +65,8 @@
 - titre: Thérapeute
   menu:
 
-    - titre: Formations &amp; diplômes
-      permalink: formations-et-diplomes/
+    - titre: Diplômes
+      permalink: diplomes/
     - titre: Expériences de vie
       permalink: experience-de-vie/
 
