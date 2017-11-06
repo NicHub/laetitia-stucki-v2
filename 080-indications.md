@@ -11,11 +11,11 @@ Les soins que je propose permettent d’obtenir des résultats dans les domaines
 
 ## Santé
 
-Troubles respiratoires, cicatrisation, douleurs, allergies, digestion difficile, troubles de l’ossature, dégénérescences physiques, problèmes immunitaires, etc.
+Cicatrisation, douleurs, dégénérescences physiques, problèmes immunitaires, etc.
 
 ## Comportement
 
-Phobies, dépressions, insomnies, bégaiements, toc, angoisses, timidité, agressivité, gestion du sommeil, se libérer de vieux schémas, problèmes de poids, addictions (fumée, alcool), etc.
+Phobies, dépressions, angoisses, timidité, agressivité, se libérer de vieux schémas.
 
 ## Sexualité
 
