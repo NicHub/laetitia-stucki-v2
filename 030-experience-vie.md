@@ -10,6 +10,7 @@ published: true
 
 {: .align-center .margin-bottom-70 }
 ### *Lætitia Stucki*
+{: .align-center .margin-bottom-70 }
 *Hypnopraticienne et hypnosexologue*
 *Lithothérapeute*
 *Énergéticienne*
