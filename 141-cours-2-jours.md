@@ -74,7 +74,7 @@ Lors de cette quatrième partie, vous allez travailler point par point les étap
 &nbsp;
 
 {: .align-center }
-<span class="brun">Prochaines dates : les 16 et 17 septembre 2017</span>
+<span class="brun">Prochaines dates : les 26 et 27 mai 2018</span>
 
 ## Inscriptions et tarifs
 

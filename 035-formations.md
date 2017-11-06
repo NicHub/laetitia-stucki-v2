@@ -22,6 +22,11 @@ published: true
 - Formation de morpho-psycho-génétique ou le langage du visage - Michel Martinat à l’École Centrale d’Hypnose.
 - Formation en communication hypnotique - Jean Dupre à l’ARCHE
 
+## Sexualité
+
+- Formation Tantra – Chamanisme cycles 1, 2 et 3 - Marie Jésus Sandoval – Amrita
+- Formation Massage Tantrique cycles 1, 2 et 3 - Marie Jésus Sandoval – Amrita
+
 ## Soins énergétiques
 
 - Formation en lithothérapie ou thérapie par les pierres - Thierry-Tri-Lederrey au centre Triveni.
@@ -29,11 +34,6 @@ published: true
 - Stages de Chamanisme - Thierry-Tri-Lederrey au centre Triveni
 - Stage guérison-soins énergétiques et développement personnel - Lalita Bauqui
 - Formation Moon Mother Avancée - Miranda Grey
-
-## Sexualité
-
-- Formation Tantra – Chamanisme cycles 1, 2 et 3 - Marie Jésus Sandoval – Amrita
-- Formation Massage Tantrique cycles 1, 2 et 3 - Marie Jésus Sandoval – Amrita
 
 ## Vie en nature
 

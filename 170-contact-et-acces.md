@@ -8,7 +8,7 @@ published: true
 # Contact et accès
 
 {: .align-center }
-Je vous offre la possibilité de venir à mes consultations soit à la Vallée de Joux, soit à Lausanne :
+Vallée de Joux ou Lausanne :
 
 {: .align-center }
 *Lætitia Stucki*
