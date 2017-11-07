@@ -11,7 +11,7 @@ Les soins que je propose permettent d’obtenir des résultats dans les domaines
 
 ## Santé
 
-Cicatrisation, douleurs, dégénérescences physiques, problèmes immunitaires, etc.
+Cicatrisation, douleurs, dégénérescences physiques, problèmes immunitaires.
 
 ## Comportement
 
