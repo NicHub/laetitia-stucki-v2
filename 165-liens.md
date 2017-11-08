@@ -8,6 +8,17 @@ published: true
 # Liens
 
 {: .align-center .margin-top-20 }
+*Laetitia Stucki*
+Centre de soins holistiques "Anama"
+[Laetitia Stucki](http://www.centre-anama.ch/therapeutes-centre-lausanne/#laetitia-stucki)
+[Centre "Anama"](http://www.centre-anama.ch/)
+
+{: .align-center .margin-top-20 }
+*Laetitia Stucki*
+Hypnosexologie
+[sacree-sexualité.org](http://sacree-sexualite.org/)
+
+{: .align-center .margin-top-20 }
 *Thierry-Tri-Lederrey*
 Thérapeute psycho-énergéticien, lithothérapeute et chaman
 Les Esserts de Rives, Vallée de Joux
