@@ -5,17 +5,16 @@ layout: page
 published: true
 ---
 
-# NOUVEAU
-# Les Ateliers collectifs !
+
 
 {: .mise-en-evidence-1 }
-Accomplissement personnel 
+[L’hypnose thérapeutique](http://laetitia-stucki.ch/hypnose/) 
 <i class="fa fa-envira" aria-hidden="true"></i> 
-Épanouissement sexuel féminin 
+[L’hypnocoaching](http://laetitia-stucki.ch/hypnocoaching/) 
 <i class="fa fa-envira" aria-hidden="true"></i> 
-Hypnochamanisme reconnexion à votre puissance vitale originelle 
+[L’hypnosexologie](http://sacree-sexualite.org/hypnosexologie/)
 <i class="fa fa-envira" aria-hidden="true"></i> 
-Communiquer avec efficacité
+[Les ateliers collectifs en soirée](http://laetitia-stucki.ch/atelier-collectifs/)
 
 <br/>
 
