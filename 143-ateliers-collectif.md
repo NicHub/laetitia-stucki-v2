@@ -85,6 +85,11 @@ Vallée de Joux 06.12.2018 / Lausanne 13.12.2018
 ![Atelier collectif avec Laetitia Stucki](../images/hypnochamanisme.JPG)
 
 <!--
+![Atelier collectif blabla avec Laetitia Stucki](../images/atelier123.jpg)
+-->
+
+
+<!--
 
 {% include ateliers.liquid %}
 
