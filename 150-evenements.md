@@ -41,7 +41,7 @@ Vallée de Joux 08.03.2018 / Lausanne 15.03.2018
 ### Épanouissement sexuel féminin 
 
 
-Ces ateliers, tous différents, et allant crescendo dans l’approche de votre épanouissement sexuel, vous apporteront les outils essentiels à l’épanouissement de votre sexualité dans la relation avec votre conjoint-e-s et avec vous-même ! Ces ateliers seront parsemés de danse, d’hypnose et d’autohypnose, du rythme du tambour, de rituels et de structures tantriques pour apporter une nouvelle dimension à votre sexualité !
+Ces ateliers, tous différents et réservé aux femmes, vont crescendo dans l’approche de votre épanouissement sexuel, vous apporteront les outils essentiels à l’épanouissement de votre sexualité dans la relation avec votre conjoint-e-s et avec vous-même ! Ces ateliers seront parsemés de danse, d’hypnose et d’autohypnose, du rythme du tambour, de rituels et de structures tantriques pour apporter une nouvelle dimension à votre sexualité !
 
 <br/>
 
