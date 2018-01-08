@@ -28,7 +28,7 @@ Ces ateliers vous apporterons les outils essentiels pour réaliser vos objectifs
 
 <br/>
 
-- <b>3 clefs essentielles pour atteindre vos objectifs</b>
+- <b>4 clefs essentielles pour atteindre vos objectifs</b>
 Vallée de Joux 11.01.2018 / Lausanne 18.01.2018
 - <b>Augmentez votre confiance en vous</b>
 Vallée de Joux 08.02.2018 / Lausanne 15.02.2018
