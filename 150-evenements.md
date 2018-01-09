@@ -26,7 +26,7 @@ Quatre thèmes répartis sur trois ateliers chacun :
 
 ### Accomplissement personnel
 
-Ces ateliers vous apporterons les outils essentiels pour réaliser vos objectifs, augmenter votre confiance en vous et maîtriser les bases de l’autohypnose! Vous allez acquérir de nombreux outils que vous pourrez utiliser dans la réalisation de ce qui vous tient vraiment à cœur.
+Ces ateliers vous apporteront les outils essentiels pour réaliser vos objectifs, augmenter votre confiance en vous et maîtriser les bases de l’autohypnose! Vous allez acquérir de nombreux outils d'autohypnose, de PNL, de préparation mentale que vous pourrez utiliser dans la réalisation de ce qui vous tient vraiment à cœur. Il n'est pas obligatoire de suivre les 3 ateliers, cependant ces 3 ateliers sont complémentaires et à eux 3 ils vous offriront une base solide pour votre accomplissement personnel.
 
 <br/>
 
