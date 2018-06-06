@@ -7,6 +7,26 @@ published: true
 
 # Évènements
 
+## Festival de la Terre 2018 à Lausanne!
+
+Je donnerais 2 ateliers gratuits le samedi 9 juin dans le petit Dôme bien-être:
+
+13h “ Augmentez votre confiance en vous par l’autohypnose” 
+ 
+- L’autohypnose pour augmenter votre confiance en vous ! Dans cet atelier, vous apprendrez à utiliser une technique d’autohypnose pour retrouver ou augmenter votre confiance en vous-même !
+Avoir confiance en vous est essentiel pour réaliser votre vie telle que vous la souhaitez vraiment! Que ce soit dans le domaine professionnel, sentimental, sexuel, familial ou de la communication.
+Bonne nouvelle: avoir confiance en soi, ça s’apprend! Je vous propose aujourd’hui de vous enseigner une méthode d’autohypnose qui va non seulement vous aider à acquérir la confiance en vous-même et également vous permettre d’acquérir ou amplifier toutes sortes d’autres qualités!
+ 
+16h “ Connexion à votre énergie sexuelle de vie par l’hypnose, le mouvement et la voix”. 
+
+- L’énergie sexuelle est l’énergie de la vie !... Elle crée la vie et donne vie à votre sexualité, à vos objectifs, à vos transformations, à vos actes...
+Par l’hypnose, le mouvement, la voix et au rythme du tambour je vous propose d’amplifier et de faciliter votre connexion à cette puissance de vie de la laisser prendre sa juste place en vous, de vous y abandonner pour vous en imprégner et pouvoir l’utiliser dans la création de votre vie.
+Cette connexion à cette énergie sexuelle va vous ouvrir de nouvelles portes dans votre sexualité, dans la relation à vous-même et à l’autre. Elle va vous booster dans vos projets, votre quotidien, et vous permettre de trouver un aplomb et un enracinement confiant dans vos comportements et vos choix.
+
+Au plaisir de vous y rencontrer!
+
+
+<!--
 # Les Ateliers collectifs !
 
 {: .mise-en-evidence-1 }
@@ -85,9 +105,9 @@ Vallée de Joux 06.12.2018 / Lausanne 13.12.2018
 *Les lieux de rencontre vous seront communiqués lors de l’inscription
 
 ![Atelier collectif avec Laetitia Stucki](../images/hypnochamanisme.JPG)
+-->
 
 <!--
-
 ### 2 ateliers gratuits hypnose et tambour chamanique au Festival de la Terre!
 
 *L’hypnose et le tambour chamanique pour une reconnexion à votre puissance de Vie et à votre vrais grand vous d'origine !... Car votre accomplissement personnel naît de votre puissance intérieure !*
