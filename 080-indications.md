@@ -15,7 +15,7 @@ Cicatrisation, douleurs, dégénérescences physiques, problèmes immunitaires.
 
 ## Comportement
 
-Phobies, dépressions, angoisses, timidité, agressivité, se libérer de vieux schémas.
+Phobies, angoisses, timidité, agressivité, se libérer de vieux schémas.
 
 ## Sexualité
 
