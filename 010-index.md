@@ -8,13 +8,13 @@ published: true
 # Bienvenue!
 
 {: .mise-en-evidence-1 }
-[Hypnose thérapeutique](http://laetitia-stucki.ch/hypnose/) 
-<i class="fa fa-envira" aria-hidden="true"></i> 
-[Hypnocoaching](http://laetitia-stucki.ch/hypnocoaching/) 
-<i class="fa fa-envira" aria-hidden="true"></i> 
+[Hypnose thérapeutique](https://laetitia-stucki.ch//hypnose/)
+<i class="fa fa-envira" aria-hidden="true"></i>
+[Hypnocoaching](https://laetitia-stucki.ch//hypnocoaching/)
+<i class="fa fa-envira" aria-hidden="true"></i>
 [Hypnosexologie](http://sacree-sexualite.org/hypnosexologie/)
-<i class="fa fa-envira" aria-hidden="true"></i> 
-[Ateliers collectifs en soirée](http://laetitia-stucki.ch/atelier-collectifs/)
+<i class="fa fa-envira" aria-hidden="true"></i>
+[Ateliers collectifs en soirée](https://laetitia-stucki.ch//atelier-collectifs/)
 
 {: .align-center .margin-top-50 }
 Suivez mon actualité sur

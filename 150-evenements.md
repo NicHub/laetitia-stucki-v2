@@ -11,15 +11,15 @@ published: true
 
 ### Je donnerais 2 ateliers gratuits le samedi 9 juin dans le petit Dôme bien-être:
 
-13h “ Augmentez votre confiance en vous par l’autohypnose” 
- 
+13h “ Augmentez votre confiance en vous par l’autohypnose”
+
 - L’autohypnose pour augmenter votre confiance en vous ! Dans cet atelier, vous apprendrez à utiliser une technique d’autohypnose pour retrouver ou augmenter votre confiance en vous-même !
 Avoir confiance en vous est essentiel pour réaliser votre vie telle que vous la souhaitez vraiment! Que ce soit dans le domaine professionnel, sentimental, sexuel, familial ou de la communication.
 Bonne nouvelle: avoir confiance en soi, ça s’apprend! Je vous propose aujourd’hui de vous enseigner une méthode d’autohypnose qui va non seulement vous aider à acquérir la confiance en vous-même et également vous permettre d’acquérir ou amplifier toutes sortes d’autres qualités!
 
-[Mon atelier presenté sur le site du Festival de la Terre](http://www.festivaldelaterre.ch/portfolio-item/augmentez-votre-confiance-en-vous-par-lauto-hypnose/) 
- 
-16h “ Connexion à votre énergie sexuelle de vie par l’hypnose, le mouvement et la voix”. 
+[Mon atelier presenté sur le site du Festival de la Terre](http://www.festivaldelaterre.ch/portfolio-item/augmentez-votre-confiance-en-vous-par-lauto-hypnose/)
+
+16h “ Connexion à votre énergie sexuelle de vie par l’hypnose, le mouvement et la voix”.
 
 - L’énergie sexuelle est l’énergie de la vie !... Elle crée la vie et donne vie à votre sexualité, à vos objectifs, à vos transformations, à vos actes...
 Par l’hypnose, le mouvement, la voix et au rythme du tambour je vous propose d’amplifier et de faciliter votre connexion à cette puissance de vie de la laisser prendre sa juste place en vous, de vous y abandonner pour vous en imprégner et pouvoir l’utiliser dans la création de votre vie.
@@ -34,17 +34,17 @@ Au plaisir de vous y rencontrer!
 # Les Ateliers collectifs !
 
 {: .mise-en-evidence-1 }
-Accomplissement personnel 
-<i class="fa fa-envira" aria-hidden="true"></i> 
-Épanouissement sexuel féminin 
-<i class="fa fa-envira" aria-hidden="true"></i> 
-Hypnochamanisme reconnexion à votre puissance vitale originelle 
-<i class="fa fa-envira" aria-hidden="true"></i> 
+Accomplissement personnel
+<i class="fa fa-envira" aria-hidden="true"></i>
+Épanouissement sexuel féminin
+<i class="fa fa-envira" aria-hidden="true"></i>
+Hypnochamanisme reconnexion à votre puissance vitale originelle
+<i class="fa fa-envira" aria-hidden="true"></i>
 Communiquer avec efficacité
 
 <br/>
 
-Tout au long de l’année 2018, je vous propose des ateliers de 19h30 à 21h30 environ sur inscription à la Vallée de Joux et à Lausanne ! 
+Tout au long de l’année 2018, je vous propose des ateliers de 19h30 à 21h30 environ sur inscription à la Vallée de Joux et à Lausanne !
 
 Quatre thèmes répartis sur trois ateliers chacun :
 
@@ -62,7 +62,7 @@ Vallée de Joux 08.02.2018 / Lausanne 15.02.2018
 Vallée de Joux 08.03.2018 / Lausanne 15.03.2018
 
 
-### Épanouissement sexuel féminin 
+### Épanouissement sexuel féminin
 
 
 Ces ateliers, tous différents et réservé aux femmes, vont crescendo dans l’approche de votre épanouissement sexuel, vous apporteront les outils essentiels à l’épanouissement de votre sexualité dans la relation avec votre conjoint-e-s et avec vous-même ! Ces ateliers seront parsemés de danse, d’hypnose et d’autohypnose, du rythme du tambour, de rituels et de structures tantriques pour apporter une nouvelle dimension à votre sexualité !
@@ -92,7 +92,7 @@ Vallée de Joux 09.08.2018 / Lausanne 16.08.2018
 Vallée de Joux 13.09.2018 / Lausanne 20.09.2018
 
 
-### Communiquer avec efficacité 
+### Communiquer avec efficacité
 
 
 Ces ateliers, tous différents vous apporterons les clefs et les outils essentiels pour acquérir de l'aisance et une communication plus efficace dans tout les domaines de votre vie ! En apprenant ces techniques de communication, d’hypnose, d’autohypnose, de PNL, de préparation mentale, et par le biais de divers exercices, vous allez acquérir une base solide pour une communication réussie et bienveillante!
@@ -118,7 +118,7 @@ Vallée de Joux 06.12.2018 / Lausanne 13.12.2018
 
 Retrouvez-moi au festival de la Terre le samedi 10 juin pour 2 séances d'hypnose accompagnée du rythme du tambour chamanique!
 
-- Hypnose et Tambour : Reconnexion à votre "vrais grand vous d’origine" à 13h au Dôme 2 
+- Hypnose et Tambour : Reconnexion à votre "vrais grand vous d’origine" à 13h au Dôme 2
 
 - Hypnose et Tambour : Reconnexion à votre "puissance de Vie" à 16h au Dôme 2
 
@@ -151,4 +151,4 @@ Ceci est un commentaire HTML. Rien de ce qui est noté ici n’apparaîtra !!!
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](http://laetitia-stucki.ch/tarifs/)
+[Tarifs](https://laetitia-stucki.ch//tarifs/)

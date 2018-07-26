@@ -44,5 +44,5 @@ Vous avez tous en vous des capacités insoupçonnables, des ressources immenses 
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](http://laetitia-stucki.ch/tarifs/)
+[Tarifs](https://laetitia-stucki.ch//tarifs/)
 
