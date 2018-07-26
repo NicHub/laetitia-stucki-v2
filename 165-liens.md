@@ -9,9 +9,9 @@ published: true
 
 {: .align-center .margin-top-20 }
 *Laetitia Stucki*
-Centre de soins holistiques "Anama"
+Centre de soins holistiques “Anama”
 [Laetitia Stucki](http://www.centre-anama.ch/therapeutes-centre-lausanne/#laetitia-stucki)
-[Centre "Anama"](http://www.centre-anama.ch/)
+[Centre “Anama”](http://www.centre-anama.ch/)
 
 {: .align-center .margin-top-20 }
 *Laetitia Stucki*

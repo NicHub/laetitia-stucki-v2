@@ -13,7 +13,7 @@ published: true
 
 13h “ Augmentez votre confiance en vous par l’autohypnose”
 
-- L’autohypnose pour augmenter votre confiance en vous ! Dans cet atelier, vous apprendrez à utiliser une technique d’autohypnose pour retrouver ou augmenter votre confiance en vous-même !
+- L’autohypnose pour augmenter votre confiance en vous ! Dans cet atelier, vous apprendrez à utiliser une technique d’autohypnose pour retrouver ou augmenter votre confiance en vous-même !
 Avoir confiance en vous est essentiel pour réaliser votre vie telle que vous la souhaitez vraiment! Que ce soit dans le domaine professionnel, sentimental, sexuel, familial ou de la communication.
 Bonne nouvelle: avoir confiance en soi, ça s’apprend! Je vous propose aujourd’hui de vous enseigner une méthode d’autohypnose qui va non seulement vous aider à acquérir la confiance en vous-même et également vous permettre d’acquérir ou amplifier toutes sortes d’autres qualités!
 
@@ -21,7 +21,7 @@ Bonne nouvelle: avoir confiance en soi, ça s’apprend! Je vous propose aujourd
 
 16h “ Connexion à votre énergie sexuelle de vie par l’hypnose, le mouvement et la voix”.
 
-- L’énergie sexuelle est l’énergie de la vie !... Elle crée la vie et donne vie à votre sexualité, à vos objectifs, à vos transformations, à vos actes...
+- L’énergie sexuelle est l’énergie de la vie !... Elle crée la vie et donne vie à votre sexualité, à vos objectifs, à vos transformations, à vos actes...
 Par l’hypnose, le mouvement, la voix et au rythme du tambour je vous propose d’amplifier et de faciliter votre connexion à cette puissance de vie de la laisser prendre sa juste place en vous, de vous y abandonner pour vous en imprégner et pouvoir l’utiliser dans la création de votre vie.
 Cette connexion à cette énergie sexuelle va vous ouvrir de nouvelles portes dans votre sexualité, dans la relation à vous-même et à l’autre. Elle va vous booster dans vos projets, votre quotidien, et vous permettre de trouver un aplomb et un enracinement confiant dans vos comportements et vos choix.
 
@@ -50,7 +50,7 @@ Quatre thèmes répartis sur trois ateliers chacun :
 
 ### Accomplissement personnel
 
-Ces ateliers vous apporteront les outils essentiels pour réaliser vos objectifs, augmenter votre confiance en vous et maîtriser les bases de l’autohypnose! Vous allez acquérir de nombreux outils d'autohypnose, de PNL, de préparation mentale que vous pourrez utiliser dans la réalisation de ce qui vous tient vraiment à cœur. Il n'est pas obligatoire de suivre les 3 ateliers, cependant ces 3 ateliers sont complémentaires et à eux 3 ils vous offriront une base solide pour votre accomplissement personnel.
+Ces ateliers vous apporteront les outils essentiels pour réaliser vos objectifs, augmenter votre confiance en vous et maîtriser les bases de l’autohypnose! Vous allez acquérir de nombreux outils d’autohypnose, de PNL, de préparation mentale que vous pourrez utiliser dans la réalisation de ce qui vous tient vraiment à cœur. Il n’est pas obligatoire de suivre les 3 ateliers, cependant ces 3 ateliers sont complémentaires et à eux 3 ils vous offriront une base solide pour votre accomplissement personnel.
 
 <br/>
 
@@ -95,7 +95,7 @@ Vallée de Joux 13.09.2018 / Lausanne 20.09.2018
 ### Communiquer avec efficacité
 
 
-Ces ateliers, tous différents vous apporterons les clefs et les outils essentiels pour acquérir de l'aisance et une communication plus efficace dans tout les domaines de votre vie ! En apprenant ces techniques de communication, d’hypnose, d’autohypnose, de PNL, de préparation mentale, et par le biais de divers exercices, vous allez acquérir une base solide pour une communication réussie et bienveillante!
+Ces ateliers, tous différents vous apporterons les clefs et les outils essentiels pour acquérir de l’aisance et une communication plus efficace dans tout les domaines de votre vie ! En apprenant ces techniques de communication, d’hypnose, d’autohypnose, de PNL, de préparation mentale, et par le biais de divers exercices, vous allez acquérir une base solide pour une communication réussie et bienveillante!
 
 <br/>
 
@@ -114,13 +114,13 @@ Vallée de Joux 06.12.2018 / Lausanne 13.12.2018
 <!--
 ### 2 ateliers gratuits hypnose et tambour chamanique au Festival de la Terre!
 
-*L’hypnose et le tambour chamanique pour une reconnexion à votre puissance de Vie et à votre vrais grand vous d'origine !... Car votre accomplissement personnel naît de votre puissance intérieure !*
+*L’hypnose et le tambour chamanique pour une reconnexion à votre puissance de Vie et à votre vrais grand vous d’origine !... Car votre accomplissement personnel naît de votre puissance intérieure !*
 
-Retrouvez-moi au festival de la Terre le samedi 10 juin pour 2 séances d'hypnose accompagnée du rythme du tambour chamanique!
+Retrouvez-moi au festival de la Terre le samedi 10 juin pour 2 séances d’hypnose accompagnée du rythme du tambour chamanique!
 
-- Hypnose et Tambour : Reconnexion à votre "vrais grand vous d’origine" à 13h au Dôme 2
+- Hypnose et Tambour : Reconnexion à votre “vrais grand vous d’origine” à 13h au Dôme 2
 
-- Hypnose et Tambour : Reconnexion à votre "puissance de Vie" à 16h au Dôme 2
+- Hypnose et Tambour : Reconnexion à votre “puissance de Vie” à 16h au Dôme 2
 
 [![Affiche Festival de la Terre 2017][1]][2]
 

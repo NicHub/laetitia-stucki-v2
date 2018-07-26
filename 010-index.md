@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-# Bienvenue!
+# Bienvenue !
 
 {: .mise-en-evidence-1 }
 [Hypnose thérapeutique](https://laetitia-stucki.ch//hypnose/)
