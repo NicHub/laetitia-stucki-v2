@@ -2,7 +2,7 @@
 title: Les ateliers collectifs
 permalink: atelier-collectifs/
 layout: page
-published: true
+published: false
 ---
 
 # Les Ateliers collectifs !

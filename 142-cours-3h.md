@@ -2,7 +2,7 @@
 title: Cours de 3h autohypnose
 permalink: cours-de-3h-autohypnose/
 layout: page
-published: true
+published: false
 ---
 
 

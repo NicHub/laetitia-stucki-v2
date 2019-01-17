@@ -8,6 +8,13 @@ published: true
 
 # Cours
 
+## Je vous propose des cours et ateliers privés et semi-privés sur rendez-vous.
+
+### Autohypnose - Atteindre vos objectifs - Confiance en soi - Épanouissement sexuel - Communication efficace
+Chacun de ces cours à lieu sur rendez-vous, pour une à six personnes et durs entre 1h30 et 3h en fonction de ce que vous recherchez. Le tarif maximum est de 150.- et est dégressif en fonction du nombre de personnes inscrites et du nombre d'heures de cours.
+Pour d'avantage d'information merci de me contacter directement.
+
+<!--
 ![...](../images/laetitia-stucki-cours.jpg)
 
 ## Je vous propose 3 types de cours d’autohypnose
@@ -25,7 +32,7 @@ published: true
 
 
 
-<!--
+
 ## Pourquoi suivre un cours d’autohypnose ?
 
 Vous avez tous en vous des capacités insoupçonnables, des ressources immenses dont vous ne connaissez pas toujours l’existence ! Grâce à l’autohypnose vous allez prendre conscience de toutes vos ressources, les mettre à la portée de vos mains et apprendre à les utiliser par vous-même pour améliorer votre santé physique et psychique, pour vous permettre d’atteindre vos objectifs, qu’ils concernent votre santé, vos comportements, votre développement personnel, vos objectifs de vie, la réalisation de vos rêves et de tout ce qui vous tien profondément à cœur dans la création de votre vie.

@@ -2,7 +2,7 @@
 title: "Cours de 2 jours: Autohypnose, “Réalisez-vos rêves et atteignez vos objectifs”"
 permalink: cours-de-2-jours-autohypnose/
 layout: page
-published: true
+published: false
 ---
 
 # Cours de 2 jours<br/>*Autohypnose, réalisez vos rêves et atteignez vos objectifs*

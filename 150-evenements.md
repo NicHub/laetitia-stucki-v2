@@ -7,9 +7,13 @@ published: true
 
 # Évènements
 
-## Festival de la Terre 2018 à Lausanne!
+## Festival de la Terre 2019 à Lausanne!
 
-### Je donnerais 2 ateliers gratuits le samedi 9 juin dans le petit Dôme bien-être:
+### Je donnerais 2 ateliers gratuits le samedi 15 juin dans le petit Dôme bien-être.
+
+Vous serez informé ici des thèmes des cours dans quelque temps!
+
+<!--
 
 13h “ Augmentez votre confiance en vous par l’autohypnose”
 
@@ -144,7 +148,6 @@ Retrouvez-moi au festival de la Terre le samedi 10 juin pour 2 séances d’hypn
 
 Ceci est un commentaire HTML. Rien de ce qui est noté ici n’apparaîtra !!!
 
--->
 
 ## Inscriptions et tarifs
 
@@ -152,3 +155,4 @@ Ceci est un commentaire HTML. Rien de ce qui est noté ici n’apparaîtra !!!
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
 [Tarifs](https://laetitia-stucki.ch//tarifs/)
+-->
