@@ -14,7 +14,7 @@ published: true
 <i class="fa fa-envira" aria-hidden="true"></i>
 [Hypnosexologie](http://sacree-sexualite.org/hypnosexologie/)
 <i class="fa fa-envira" aria-hidden="true"></i>
-[Ateliers collectifs en soirée](https://laetitia-stucki.ch//atelier-collectifs/)
+[Cours privés ou collectifs](https://laetitia-stucki.ch//cours/)
 
 {: .align-center .margin-top-50 }
 Suivez mon actualité sur
