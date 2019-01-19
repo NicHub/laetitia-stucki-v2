@@ -10,19 +10,20 @@ published: true
 
 ## Je vous propose des cours et ateliers privés et semi-privés sur rendez-vous.
 
-### Autohypnose 
+{: .mise-en-evidence-1 }
+Autohypnose 
 <i class="fa fa-envira" aria-hidden="true"></i> 
 
-###Atteindre vos objectifs 
+Atteindre vos objectifs 
 <i class="fa fa-envira" aria-hidden="true"></i> 
 
-###Confiance en soi 
+Confiance en soi 
 <i class="fa fa-envira" aria-hidden="true"></i> 
 
-###Épanouissement sexuel 
+Épanouissement sexuel 
 <i class="fa fa-envira" aria-hidden="true"></i> 
 
-###Communication
+Communication
 
 Chacun de ces cours à lieu sur rendez-vous, pour une à six personnes et durs entre 1h30 ou 3h en fonction de ce que vous recherchez. Le tarif maximum est de 150.- et est dégressif en fonction du nombre de personnes inscrites et du nombre d'heures de cours.
 Pour d'avantage d'information merci de me contacter directement.
