@@ -3,4 +3,4 @@
 
 <http://laetitiastucki.github.io/laetitia-stucki-v2/>
 
-<https://laetitia-stucki.ch//>
+<https://laetitia-stucki.ch/>
