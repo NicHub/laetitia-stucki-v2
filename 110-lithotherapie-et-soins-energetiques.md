@@ -14,3 +14,10 @@ Je vous propose également de bénéficier de séances de soins énergétiques p
 ![Pierre utilisée en lithothérapie](../images/laetitia-stucki-lithotherapie-001.jpg)
 
 La lithothérapie est l’utilisation de l’énergie des pierres semi-précieuses. La matière dense et cristallisée des pierres ainsi que leur couleur leur confère un pouvoir énergétique supérieur. Les pierres peuvent être utilisées en équilibrage énergétique et réharmonisation des chakras. Elles sont utilisées également pour travailler sur certains aspects plus spécifiques dans les domaines du physique, du psychisme et du développement personnel. Une pierre peut vous suivre au quotidien pour vous accompagner et vous soutenir dans votre travail.
+
+## Inscriptions et tarifs
+
+{: .text-center }
+<mailto:laetitia.stucki@gmail.com>
+<i class="fa fa-mobile"></i> +41 79 326 30 64
+[Tarifs](https://laetitia-stucki.ch//tarifs/)

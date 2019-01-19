@@ -34,5 +34,12 @@ Tout le monde est hypnotisable ! Tout le monde a déjà vécu l’état d’hyp
 
 ![Séance d’hypnose avec Lætitia Stucki](../images/laetitia-stucki-hypnose-005.jpg)
 
-**Découvrez dès maintenant l’efficacité des consultations en hypnose qui vous apporteront des solutions concrètes et qui vous permettront de dépasser vos blocages, vos peurs, vos addictions et ainsi atteindre vos objectifs aussi rapidement que facilement !**
+**Découvrez dès maintenant l’efficacité des consultations en hypnose qui vous apporteront des solutions concrètes et de nombreux outils pour vous permettre de dépasser vos blocages, vos peurs et limitations en vous apportant une meilleure connaissance de vous même et ainsi atteindre vos objectifs aussi rapidement que facilement !**
+
+## Inscriptions et tarifs
+
+{: .text-center }
+<mailto:laetitia.stucki@gmail.com>
+<i class="fa fa-mobile"></i> +41 79 326 30 64
+[Tarifs](https://laetitia-stucki.ch//tarifs/)
 

@@ -11,7 +11,7 @@ published: true
 
 ### Je donnerais 2 ateliers gratuits le samedi 15 juin dans le petit Dôme bien-être.
 
-Vous serez informé ici des thèmes des cours dans quelque temps!
+Vous serez informé ici des thèmes des ateliers ainsi que de leurs horaires.
 
 <!--
 

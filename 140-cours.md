@@ -21,7 +21,8 @@ Confiance en soi
 <i class="fa fa-envira" aria-hidden="true"></i> 
 Communication
 
-Chacun de ces cours à lieu sur rendez-vous, pour une à six personnes et durs entre 1h30 ou 3h en fonction de ce que vous recherchez. Le tarif maximum est de 150.- et est dégressif en fonction du nombre de personnes inscrites et du nombre d'heures de cours.
+
+Chacun de ces cours à lieu sur rendez-vous, pour une à six personnes et durs 1h30 ou 3h en fonction de ce que vous recherchez. Le tarif maximum est de 150.- et est dégressif en fonction du nombre de personnes inscrites et du nombre d'heures de cours.
 Pour d'avantage d'information merci de me contacter directement.
 
 
@@ -58,10 +59,9 @@ Vous avez tous en vous des capacités insoupçonnables, des ressources immenses 
 
 ![...](../images/laetitia-stucki-hypnose-007.jpg)
 
-## Inscriptions et tarifs
+## Inscription
 
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](https://laetitia-stucki.ch//tarifs/)
 

@@ -15,7 +15,7 @@ Cicatrisation, douleurs, dégénérescences physiques, problèmes immunitaires.
 
 ## Comportement
 
-Phobies, angoisses, timidité, agressivité, se libérer de vieux schémas.
+Phobies, confiance en soi, angoisses, timidité, agressivité, se libérer de vieux schémas.
 
 ## Sexualité
 
@@ -28,3 +28,10 @@ Préparation à un évènement important, gestion du stress et des émotions, pe
 ## Développement personnel et spirituel
 
 Développement de la créativité et de l’imagination, lâcher-prise, développement de ses facultés psychique, retrouver son enfant intérieur, s’aimer soi-même, élargir notre conscience de soi à une conscience universelle.
+
+## Inscriptions et tarifs
+
+{: .text-center }
+<mailto:laetitia.stucki@gmail.com>
+<i class="fa fa-mobile"></i> +41 79 326 30 64
+[Tarifs](https://laetitia-stucki.ch//tarifs/)

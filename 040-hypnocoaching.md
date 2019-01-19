@@ -32,3 +32,10 @@ Bonne nouvelle : avoir confiance en soi, ça s’apprend et c’est facile ! P
 Ceci est un commentaire HTML. Rien de ce qui est noté ici n’apparaîtra !!!
 
 -->
+
+## Inscriptions et tarifs
+
+{: .text-center }
+<mailto:laetitia.stucki@gmail.com>
+<i class="fa fa-mobile"></i> +41 79 326 30 64
+[Tarifs](https://laetitia-stucki.ch//tarifs/)
