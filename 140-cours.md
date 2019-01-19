@@ -10,9 +10,18 @@ published: true
 
 ## Je vous propose des cours et ateliers privés et semi-privés sur rendez-vous.
 
-### Autohypnose - Atteindre vos objectifs - Confiance en soi - Épanouissement sexuel - Communication efficace
+### Autohypnose <i class="fa fa-envira" aria-hidden="true"></i> Atteindre vos objectifs <i class="fa fa-envira" aria-hidden="true"></i> Confiance en soi <i class="fa fa-envira" aria-hidden="true"></i> Épanouissement sexuel - Communication
 Chacun de ces cours à lieu sur rendez-vous, pour une à six personnes et durs entre 1h30 et 3h en fonction de ce que vous recherchez. Le tarif maximum est de 150.- et est dégressif en fonction du nombre de personnes inscrites et du nombre d'heures de cours.
 Pour d'avantage d'information merci de me contacter directement.
+
+{: .mise-en-evidence-1 }
+[Hypnose thérapeutique](https://laetitia-stucki.ch//hypnose/)
+<i class="fa fa-envira" aria-hidden="true"></i>
+[Hypnocoaching](https://laetitia-stucki.ch//hypnocoaching/)
+<i class="fa fa-envira" aria-hidden="true"></i>
+[Hypnosexologie](http://sacree-sexualite.org/hypnosexologie/)
+<i class="fa fa-envira" aria-hidden="true"></i>
+[Cours privés ou collectifs](https://laetitia-stucki.ch//cours/)
 
 <!--
 ![...](../images/laetitia-stucki-cours.jpg)
