@@ -10,7 +10,7 @@ published: true
 
 {: .align-center }
 *Lætitia Stucki*
-*Hypnose et hypnosexologie
+*Hypnose et hypnosexologie*
 *Lithothérapie*
 *Soins énergétiques*
 *Moon Mother*
