@@ -20,10 +20,10 @@ published: true
 Suivez mon actualité sur
 [ma page Facebook<br/><i style="font-size:30pt;" class="fa fa-facebook-official"></i>]({{ site.data.infos.facebook.fb-url }})
 
-![Lætitia Stucki](./images/laetitia-stucki.jpg)
+![Lætitia Stucki](images/laetitia-stucki.jpg)
 
 {: .align-center }
-![](./images/logo-laetitia-stucki-anthracite.svg){: height="90" width="90" }
+![](images/logo-laetitia-stucki-anthracite.svg){: height="90" width="90" }
 
 {% include facebook-button-box_count.liquid %}
 
