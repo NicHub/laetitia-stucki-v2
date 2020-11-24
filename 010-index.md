@@ -27,3 +27,4 @@ Suivez mon actualité sur
 
 {% include facebook-button-box_count.liquid %}
 
+☙
