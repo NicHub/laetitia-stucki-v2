@@ -1,5 +1,5 @@
 {% if page.url == "/404.html" %}
-	{% assign thisbaseurl = "/" %}
+	{% assign thisbaseurl = "https://laetitiastucki.github.io/laetitia-stucki-v2/" %}
 {% else %}
 	{% assign page_level = page.url | append: "-" | split: '/' | size | minus: 2 %}
 	{% if page_level < 1 %}
