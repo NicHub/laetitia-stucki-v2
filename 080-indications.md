@@ -34,4 +34,4 @@ Développement de la créativité et de l’imagination, lâcher-prise, dévelop
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](https://laetitia-stucki.ch//tarifs/)
+[Tarifs](./tarifs/)

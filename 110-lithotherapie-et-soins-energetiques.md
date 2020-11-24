@@ -20,4 +20,4 @@ La lithothérapie est l’utilisation de l’énergie des pierres semi-précieus
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](https://laetitia-stucki.ch//tarifs/)
+[Tarifs](./tarifs/)

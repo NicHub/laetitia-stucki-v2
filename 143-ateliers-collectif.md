@@ -100,4 +100,4 @@ Vallée de Joux 06.12.2018 / Lausanne 13.12.2018
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](https://laetitia-stucki.ch//tarifs/)
+[Tarifs](./tarifs/)

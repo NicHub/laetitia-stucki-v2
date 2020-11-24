@@ -46,5 +46,5 @@ L'hypnose vous offre des outils pour vos aider à vous "reprogrammer" de manièr
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](https://laetitia-stucki.ch//tarifs/)
+[Tarifs](./tarifs/)
 
