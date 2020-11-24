@@ -81,5 +81,5 @@ Lors de cette quatrième partie, vous allez travailler point par point les étap
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](./tarifs/)
+[Tarifs](../tarifs/)
 

@@ -38,4 +38,4 @@ Ceci est un commentaire HTML. Rien de ce qui est noté ici n’apparaîtra !!!
 {: .text-center }
 <mailto:laetitia.stucki@gmail.com>
 <i class="fa fa-mobile"></i> +41 79 326 30 64
-[Tarifs](./tarifs/)
+[Tarifs](../tarifs/)
